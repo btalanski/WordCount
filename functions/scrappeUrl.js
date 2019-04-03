@@ -9,10 +9,11 @@ async function scrappeUrl(url, sleepMs = 0) {
         return Promise.resolve(html);
     }
     catch (err) {
+        console.log(err);
         return Promise.reject(err);
     }
 }
 
-function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 module.exports = scrappeUrl;

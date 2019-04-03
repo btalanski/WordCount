@@ -1,7 +1,3 @@
 node_modules/*
 data/*
-!data/songs
-!data/list-songs.txt
-!data/list.json
 package-lock.json
-
