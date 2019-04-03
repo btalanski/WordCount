@@ -1,10 +1,10 @@
 const $ = require('cheerio');
 
 function extract(html) {
+    const total_items = $('.top-list_mus li a', html).length;
     const urls = [];
     const songs = [];
-    const total_items = $('.top-list_mus li a', html).length;
-
+    
     if (total_items > 0) {
         $('.top-list_mus li a', html).each(function (i, elem) {
             const url = `https://www.letras.mus.br${$(this).attr('href')}`;
@@ -15,7 +15,7 @@ function extract(html) {
         });
     }
 
-    return Promise.resolve({ urls, songs});
+    return Promise.resolve({ urls, songs });
 }
 
 module.exports = extract;
