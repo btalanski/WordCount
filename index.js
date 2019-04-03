@@ -1,6 +1,10 @@
 const scrappeUrl = require("./functions/scrappeUrl.js");
 const extractSongLinksAndTitlesFromHtml = require("./functions/extractSongLinksAndTitlesFromHtml.js");
 const writeToFile = require("./functions/writeToFile.js");
+const extractSongLyricsFromHtml = require("./functions/extractSongLyricsFromHtml.js");
+
+const fs = require('fs');
+const path = require('path');
 
 function init() {
     const songListUrl = 'https://www.letras.mus.br/mais-acessadas/funk/';
@@ -17,7 +21,7 @@ function init() {
                     const list = urls.slice(0, 1);
                     const total_urls = list.length;
 
-                    const done = new Promise((resolve, reject) => {
+                    const scrappeHtmlFromUrls = new Promise((resolve) => {
                         list.reduce((prevPromise, item, i) => {
                             const { url, title } = item;
 
@@ -36,8 +40,16 @@ function init() {
                         }, Promise.resolve(''));
                     });
 
-                    done.then(() => {
-                        console.log("finished");
+                    scrappeHtmlFromUrls.then(() => {
+                        console.log("Download finished");
+
+                        let files = fs.readdirSync('./data/songs_html');
+                        files = Array.isArray(files) ? files : [files];
+
+                        files.map((file) => {
+                            const html = fs.readFileSync(path.join(__dirname, 'data/songs_html', file), 'utf8');
+                            fs.writeFileSync(`./data/songs/${file.split('.')[0]}.txt`, extractSongLyricsFromHtml(html));
+                        });
                     });
 
                 }

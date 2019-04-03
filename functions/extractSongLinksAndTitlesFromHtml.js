@@ -4,7 +4,7 @@ function extract(html) {
     const total_items = $('.top-list_mus li a', html).length;
     const urls = [];
     const songs = [];
-    
+
     if (total_items > 0) {
         $('.top-list_mus li a', html).each(function (i, elem) {
             const url = `https://www.letras.mus.br${$(this).attr('href')}`;
