@@ -24,8 +24,8 @@ function init(args) {
 
         scrappeUrl(url)
             .then(html => {
-                extractSongLinksAndTitlesFromHtml(html).then(dictionary => {
-                    const { songs = [], urls = [] } = dictionary;
+                extractSongLinksAndTitlesFromHtml(html).then(data => {
+                    const { songs = [], urls = [] } = data;
 
                     if (songs.length > 0 && urls.length > 0) {
                         writeToFile(`${base_dir}/songs.txt`, songs.join("\r\n"))
@@ -98,6 +98,7 @@ function init(args) {
             })
             .catch((err) => {
                 console.log(err);
+                process.exit();
             });
     });
 }
