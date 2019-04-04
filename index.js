@@ -75,11 +75,11 @@ function init(songListUrl = "") {
                             .map(word => ({ word, count: dictionary[word] }))
                             .sort((a, b) => a.count - b.count).reverse();
 
-                        fs.writeFileSync('./words.json', JSON.stringify(sorted_dictionary));
-                        fs.writeFileSync('./words_25.json', JSON.stringify(sorted_dictionary.slice(0, 24)));
-                        fs.writeFileSync('./words_50.json', JSON.stringify(sorted_dictionary.slice(0, 49)));
-                        fs.writeFileSync('./words_100.json', JSON.stringify(sorted_dictionary.slice(0, 99)));
-                        fs.writeFileSync('./words_500.json', JSON.stringify(sorted_dictionary.slice(0, 499)));
+                        fs.writeFileSync('./data/words.json', JSON.stringify(sorted_dictionary));
+                        fs.writeFileSync('./data/words_25.json', JSON.stringify(sorted_dictionary.slice(0, 24)));
+                        fs.writeFileSync('./data/words_50.json', JSON.stringify(sorted_dictionary.slice(0, 49)));
+                        fs.writeFileSync('./data/words_100.json', JSON.stringify(sorted_dictionary.slice(0, 99)));
+                        fs.writeFileSync('./data/words_500.json', JSON.stringify(sorted_dictionary.slice(0, 499)));
                     });
                 }
             })
@@ -89,5 +89,5 @@ function init(songListUrl = "") {
         });
 }
 
-const songListUrl = 'https://www.letras.mus.br/mais-acessadas/funk/';
+const songListUrl = 'https://www.letras.mus.br/mais-acessadas/sertanejo/';
 init(songListUrl);
