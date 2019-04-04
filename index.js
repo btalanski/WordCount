@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 const init = (args) => {
-    const { url = "", baseDir = "", interval: scrappeInterval = 0 } = args;
+    const { url = "", baseDir = "", interval: scrappeInterval = 1000 } = args;
 
     if (url == "" || baseDir == "") {
         console.log("Missing arguments --url and/or --baseDir");
@@ -31,6 +31,10 @@ const init = (args) => {
                         writeToFile(`${base_dir}/songs.txt`, songs.join("\r\n"))
                             .then(() => console.log("File songs.txt created sucessfully"))
                             .catch((err) => console.log(`Error writing songs.txt : ${err}`));
+
+                        writeToFile(`${base_dir}/songs.json`, JSON.stringify(songs))
+                            .then(() => console.log("File songs.json created sucessfully"))
+                            .catch((err) => console.log(`Error writing songs.json : ${err}`));
 
                         const scrappeHtmlFromUrls = new Promise((resolve, reject) => {
                             urls.reduce((prevPromise, item, i, urls) => {
@@ -88,12 +92,21 @@ const init = (args) => {
                                 .sort((a, b) => a.count - b.count).reverse();
 
                             //TO DO: Move to it's own function
-                            fs.writeFileSync(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary));
-                            fs.writeFileSync(`${base_dir}/words_25.json`, JSON.stringify(sorted_dictionary.slice(0, 24)));
-                            fs.writeFileSync(`${base_dir}/words_50.json`, JSON.stringify(sorted_dictionary.slice(0, 49)));
-                            fs.writeFileSync(`${base_dir}/words_100.json`, JSON.stringify(sorted_dictionary.slice(0, 99)));
-                            fs.writeFileSync(`${base_dir}/words_500.json`, JSON.stringify(sorted_dictionary.slice(0, 499)));
+                            Promise.all([
+                                writeToFile(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary)),
+                                writeToFile(`${base_dir}/words_50.json`, JSON.stringify(sorted_dictionary.slice(0, 49))),
+                            ])
+                                .then(() => console.log("File words.json saved successfully"))
+                                .finally(() => {
+                                    console.log("Process completed");
+                                    process.exit();
+                                });
+
+
                         });
+                    } else {
+                        console.log("No songs found on the requested page");
+                        process.exit();
                     }
                 })
             })
