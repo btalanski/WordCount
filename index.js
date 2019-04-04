@@ -19,14 +19,16 @@ function init(args) {
 
     console.log("Process started");
 
-    cleanUpBeforeStart(baseDir).then(() => {
+    cleanUpBeforeStart(baseDir).then((directoryMap) => {
+        const { base_dir, html_dir, text_dir } = directoryMap;
+
         scrappeUrl(url)
             .then(html => {
                 extractSongLinksAndTitlesFromHtml(html).then(dictionary => {
                     const { songs = [], urls = [] } = dictionary;
 
                     if (songs.length > 0 && urls.length > 0) {
-                        writeToFile("./data/songs.txt", songs.join("\r\n"))
+                        writeToFile(`${base_dir}/songs.txt`, songs.join("\r\n"))
                             .then(() => console.log("Wrote songs.txt sucessfully"))
                             .catch((err) => console.log(`Error writing songs.txt... Error: ${err}`));
 
@@ -39,7 +41,7 @@ function init(args) {
                                         const msg = `Downloaded ${i + 1} of ${urls.length}`;
                                         const filename = `${i.toString().padStart(2, '0')}-${slug(title)}.html`;
 
-                                        writeToFile(`./data/songs_html/${filename}`, html)
+                                        writeToFile(`${html_dir}/${filename}`, html)
                                             .then(() => console.log(`${msg} - ${filename} saved successfully`))
                                             .catch(err => console.log(`${msg} - Error: ${err}`))
                                             .finally(() => {
@@ -54,13 +56,13 @@ function init(args) {
                         scrappeHtmlFromUrls.then(() => {
                             console.log("Download finished");
 
-                            let files = fs.readdirSync('./data/songs_html');
+                            let files = fs.readdirSync(html_dir);
                             files = Array.isArray(files) ? files : [files];
 
                             const lyrics_list = files.map((file) => {
-                                const html = fs.readFileSync(path.join(__dirname, 'data/songs_html', file), 'utf8');
+                                const html = fs.readFileSync(path.join(html_dir, file), 'utf8');
                                 const lyrics = extractSongLyricsFromHtml(html);
-                                writeToFile(`./data/songs/${file.split('.')[0]}.txt`, lyrics);
+                                writeToFile(`${text_dir}/${file.split('.')[0]}.txt`, lyrics);
                                 return lyrics;
                             });
 
@@ -85,11 +87,11 @@ function init(args) {
                                 .map(word => ({ word, count: dictionary[word] }))
                                 .sort((a, b) => a.count - b.count).reverse();
 
-                            fs.writeFileSync('./data/words.json', JSON.stringify(sorted_dictionary));
-                            fs.writeFileSync('./data/words_25.json', JSON.stringify(sorted_dictionary.slice(0, 24)));
-                            fs.writeFileSync('./data/words_50.json', JSON.stringify(sorted_dictionary.slice(0, 49)));
-                            fs.writeFileSync('./data/words_100.json', JSON.stringify(sorted_dictionary.slice(0, 99)));
-                            fs.writeFileSync('./data/words_500.json', JSON.stringify(sorted_dictionary.slice(0, 499)));
+                            fs.writeFileSync(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary));
+                            fs.writeFileSync(`${base_dir}/words_25.json`, JSON.stringify(sorted_dictionary.slice(0, 24)));
+                            fs.writeFileSync(`${base_dir}/words_50.json`, JSON.stringify(sorted_dictionary.slice(0, 49)));
+                            fs.writeFileSync(`${base_dir}/words_100.json`, JSON.stringify(sorted_dictionary.slice(0, 99)));
+                            fs.writeFileSync(`${base_dir}/words_500.json`, JSON.stringify(sorted_dictionary.slice(0, 499)));
                         });
                     }
                 })
