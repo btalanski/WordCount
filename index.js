@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 function init(args) {
-    const { url = "", baseDir = "" } = args;
+    const { url = "", baseDir = "", interval: scrappeInterval = 0 } = args;
 
     if (url == "" || baseDir == "") {
         console.log("Missing arguments --url and/or --baseDir");
@@ -29,15 +29,15 @@ function init(args) {
 
                     if (songs.length > 0 && urls.length > 0) {
                         writeToFile(`${base_dir}/songs.txt`, songs.join("\r\n"))
-                            .then(() => console.log("Wrote songs.txt sucessfully"))
-                            .catch((err) => console.log(`Error writing songs.txt... Error: ${err}`));
+                            .then(() => console.log("File songs.txt created sucessfully"))
+                            .catch((err) => console.log(`Error writing songs.txt : ${err}`));
 
                         const scrappeHtmlFromUrls = new Promise((resolve, reject) => {
                             urls.reduce((prevPromise, item, i, urls) => {
                                 const { url, title } = item;
 
                                 return prevPromise.then(() => {
-                                    return scrappeUrl(url, 0).then(html => {
+                                    return scrappeUrl(url, scrappeInterval).then(html => {
                                         const msg = `Downloaded ${i + 1} of ${urls.length}`;
                                         const filename = `${i.toString().padStart(2, '0')}-${slug(title)}.html`;
 

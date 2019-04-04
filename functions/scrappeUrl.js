@@ -9,8 +9,7 @@ async function scrappeUrl(url, sleepMs = 0) {
         return Promise.resolve(html);
     }
     catch (err) {
-        console.log(err);
-        return Promise.reject(err);
+        return Promise.reject(`Error scrapping the url: ${url}: ${err}`);
     }
 }
 
