@@ -87,6 +87,7 @@ const init = (args) => {
                                 .map(word => ({ word, count: dictionary[word] }))
                                 .sort((a, b) => a.count - b.count).reverse();
 
+                            //TO DO: Move to it's own function
                             fs.writeFileSync(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary));
                             fs.writeFileSync(`${base_dir}/words_25.json`, JSON.stringify(sorted_dictionary.slice(0, 24)));
                             fs.writeFileSync(`${base_dir}/words_50.json`, JSON.stringify(sorted_dictionary.slice(0, 49)));
