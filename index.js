@@ -9,7 +9,7 @@ const args = require('minimist')(process.argv.slice(2));
 const fs = require('fs');
 const path = require('path');
 
-function init(args) {
+const init = (args) => {
     const { url = "", baseDir = "", interval: scrappeInterval = 0 } = args;
 
     if (url == "" || baseDir == "") {
