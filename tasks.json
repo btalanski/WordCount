@@ -1,42 +1,52 @@
 [
     {
         "url": "https://www.letras.mus.br/mais-acessadas/sertanejo",
-        "baseDir": "sertanejo"
+        "baseDir": "sertanejo",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/funk",
-        "baseDir": "funk"
+        "baseDir": "funk",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/samba",
-        "baseDir": "samba"
+        "baseDir": "samba",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/forro",
-        "baseDir": "forro"
+        "baseDir": "forro",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/pagode",
-        "baseDir": "pagode"
+        "baseDir": "pagode",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/axe",
-        "baseDir": "axe"
+        "baseDir": "axe",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/gospelreligioso",
-        "baseDir": "gospel"
+        "baseDir": "gospel",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/bossa-nova",
-        "baseDir": "bossa_nova"
+        "baseDir": "bossa_nova",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/brega",
-        "baseDir": "brega"
+        "baseDir": "brega",
+        "interval": 0,
     },
     {
         "url": "https://www.letras.mus.br/mais-acessadas/samba-enredo",
-        "baseDir": "samba_enredo"
+        "baseDir": "samba_enredo",
+        "interval": 0,
     }
 ]
