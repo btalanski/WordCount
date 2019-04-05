@@ -6,6 +6,8 @@ Os dados para análise são obtidos do site Letras.mus.br. Através do site é p
 O script foi criado usando NodeJs e processo é bem simples. Fazemos o scrapping das páginas para obter as letras de cada uma das 1000 músicas e depois agrupamos todas as palavras para obter o número de ocorrências. Um filtro de `stopwords` é aplicado para remover algumas palavras irrelevantes.
 
 ### Executando o script ###
+
+#### Executar apenas uma URL ###
 Os seguintes parâmetros são necessários para a execução do script: 
 
 ```
@@ -17,6 +19,17 @@ Executar o script:
 ```
 npm run start -- --url=https://www.letras.mus.br/mais-acessadas/sertanejo --baseDir=sertanejo --interval=1000
 ```
+
+#### Executar uma lista de URLs ####
+Existe uma segunda opção de script que pode ser usado para executar multiplas urls em sequência. 
+
+Adicione as urls desejadas no arquivo `tasks.json` e então execute o comando a seguir:
+
+```
+npm run tasks
+```
+
+Note que o tempo de processamento será baseado no total de urls a serem buscas. O processo é executado em forma de fila e não em paralelo.
 
 ### Resultados ###
 Os resultados da operações serão armazenados na pasta `data` gerada.

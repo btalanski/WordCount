@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/sertanejo",
+        "baseDir": "sertanejo"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/funk",
+        "baseDir": "funk"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/samba",
+        "baseDir": "samba"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/forro",
+        "baseDir": "forro"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/pagode",
+        "baseDir": "pagode"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/axe",
+        "baseDir": "axe"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/gospelreligioso",
+        "baseDir": "gospel"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/bossa-nova",
+        "baseDir": "bossa_nova"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/brega",
+        "baseDir": "brega"
+    },
+    {
+        "url": "https://www.letras.mus.br/mais-acessadas/samba-enredo",
+        "baseDir": "samba_enredo"
+    }
+]

@@ -5,66 +5,51 @@ Ao todo foram analisadas 1000 letras e as 50 palavras de maior occorência foram
 
 Palavra | Ocorrências
 --- | --- |
-Meu | 1412
-Amor | 1401
-Vou | 1138
-Minha | 626
-Ela | 592
-Coração | 567
-Gente | 466
-Como | 465
-Vida | 405
-Mim | 388
-Bem | 368
-Mundo | 342
-Amar | 327
-Ele | 301
-You | 274
-Dia | 270
-Deixa | 265
-Mar | 250
-Deus | 248
-Mão | 232
-Viver | 226
-Bom | 218
-Amo | 195
-Muito | 195
-Dar | 193
-The | 193
-Chão | 181
-Sol | 181
-Samba | 180
-Céu | 176
-Ficar | 173
-Feliz | 172
-Bota | 171
-And | 165
-Zum | 165
-Saudade | 156
-Carnaval | 156
-Con | 154
-Leva | 154
-Corpo | 154
-Olodum | 153
-Tchan | 149
-Ninguém | 147
-Vamos | 143
-Dança | 142
-Cidade | 142
-Prá | 139
-Pega | 139
-Cabeça | 139
+Daí | 5
+Desça | 5
+Corno | 2
+Dessa | 2
+Gaia | 2
+Voar | 1
+Asa | 1
+Levou | 1
+Galhudo | 1
+Bar | 1
+Mesa | 1
+Venha | 1
+Agonia | 1
+Saia | 1
+Sair | 1
+Amigo | 1
+Meu | 1
+Avisar | 1
+Amigos | 1
+Cabaré | 1
+Vivia | 1
+Ela | 1
+Carreteiro | 1
+Fugiu | 1
+Desgraçada | 1
+Amada | 1
+Sabendo | 1
+Fiquei | 1
+Jogar | 1
+Tentando | 1
+Espendurado | 1
+Andar | 1
+Cara | 1
+Desse | 1
 
 ### Canções analisadas: ###
 1. O Rei da Cacimbinha - Desça Daí, Seu Corno
 2. MC Nando - Garupa 2
 3. Ivete Sangalo - Quando a Chuva Passar
-4. Olodum - Faraó Divindade do Egito
-5. Ivete Sangalo - Se Eu Não Te Amasse Tanto Assim
-6. Saulo Fernandes - Raiz de Todo Bem
-7. Daniela Mercury - Nobre Vagabundo
-8. Parangolé - Abaixa Que É Tiro
-9. Ivete Sangalo - Não Precisa Mudar
+4. Ivete Sangalo - Se Eu Não Te Amasse Tanto Assim
+5. Olodum - Faraó Divindade do Egito
+6. Daniela Mercury - Nobre Vagabundo
+7. Saulo Fernandes - Raiz de Todo Bem
+8. Ivete Sangalo - Não Precisa Mudar
+9. Parangolé - Abaixa Que É Tiro
 10. Saulo Fernandes - Anjo
 11. Banda Eva - Eva
 12. Ivete Sangalo - Baianidade Nagô
@@ -73,986 +58,986 @@ Cabeça | 139
 15. Ivete Sangalo - Zero a Dez (part. Luan Santana)
 16. Banda Eva - Poema Anjo
 17. Léo Santana - Crush Blogueirinha
-18. É o Tchan - Segure o Tchan
-19. Claudia Leitte - Pensando Em Você
-20. Ivete Sangalo - Me Abraça e Me Beija
-21. Léo Santana - Como É Bom Amor Te Amar
-22. Léo Santana - 10 Beijos de Rua
+18. Claudia Leitte - Pensando Em Você
+19. Ivete Sangalo - Me Abraça e Me Beija
+20. Léo Santana - 10 Beijos de Rua
+21. É o Tchan - Segure o Tchan
+22. Léo Santana - Como É Bom Amor Te Amar
 23. Abadá Capoeira - Paranauê
-24. Banda Eva - Tão Sonhada
-25. As Meninas - Xibom Bombom
-26. Cheiro De Amor - Cheiro de Amor no Ar
-27. Léo Santana - Solinho da Rabeta (part. Pegadeira)
-28. Filhos de Jorge - Saudades
-29. Timbalada - Cidade Voa
-30. Daniela Mercury - Rapunzel
-31. Ivete Sangalo - Beleza Rara
-32. Abadá Capoeira - Hoje Tem Capoeira
-33. Chiclete Com Banana - 100% Você
-34. Timbalada - Beija-Flôr
-35. Chiclete Com Banana - Não vou Chorar
-36. Rafa e Pipo Marques - Se O Passarinho Voou
-37. Araketu - Mal Acostumado
-38. Saulo Fernandes - Floresça
+24. As Meninas - Xibom Bombom
+25. Banda Eva - Tão Sonhada
+26. Léo Santana - Solinho da Rabeta (part. Pegadeira)
+27. Filhos de Jorge - Saudades
+28. Rafa e Pipo Marques - Se O Passarinho Voou
+29. Ivete Sangalo - Beleza Rara
+30. Chiclete Com Banana - 100% Você
+31. Timbalada - Cidade Voa
+32. Araketu - Mal Acostumado
+33. Abadá Capoeira - Hoje Tem Capoeira
+34. Saulo Fernandes - Floresça
+35. Timbalada - Beija-Flôr
+36. Faz Pra Mim - Deixa Acontecer Naturalmente
+37. Cheiro De Amor - Cheiro de Amor no Ar
+38. Chiclete Com Banana - Não vou Chorar
 39. Banda Eva - Anjo
-40. Banda 007 - Prova de Amor
-41. Faz Pra Mim - Deixa Acontecer Naturalmente
-42. Claudia Leitte - Saudade (part. Hungria Hip Hop)
-43. Babado Novo - Amor Perfeito
-44. Timbalada - Água Mineral
-45. Evaristo Ferreira da Veiga - Hino da Independência do Brasil
-46. Daniela Mercury - À Primeira Vista
-47. Kaoma - Chorando Se Foi (Lambada)
-48. É o Tchan - Pau Que Nasce Torto/ Melô Do Tchan
-49. Cheiro De Amor - Pense Em Mim
-50. Daniela Mercury - O Canto da Cidade
-51. Banda Beijo - Baianidade Nagô
-52. Ivete Sangalo - Arerê
-53. Saulo Fernandes - Outra vez
-54. Claudia Leitte - Pássaros
-55. Léo Santana - Maravilhosa É Ela
-56. Margareth Menezes - Faraó Divindade do Egito
-57. Banda Mel - Prefixo de Verão
-58. Abadá Capoeira - Um Grão de Areia
-59. Chiclete Com Banana - Diga Que Valeu
-60. Bragaboys - Bomba
-61. Bel Meirelles - Alerta contra a Dengue
-62. Gerônimo - É d&#x27;Oxum
-63. Ivete Sangalo - Vem Meu Amor
-64. É o Tchan - A Nova Loira Do Tchan
-65. Ivete Sangalo - Teleguiado
-66. Harmonia do Samba - Ninguém Explica Deus
-67. Cecília de Souza - Eu Sou o Teu Deus
-68. É o Tchan - É O Tchan No Havai
-69. Saulo Fernandes - Tão Sonhada
-70. Daniela Mercury - Ilê Pérola Negra
-71. Jammil e Uma Noites - We Are Carnaval
-72. Araketu - Amantes
-73. Netinho - Milla
-74. Abadá Capoeira - O Navio Negreiro
-75. Ivete Sangalo - Sorte Grande (Poeira)
-76. Léo Santana - Santinha
-77. Daniela Mercury - Proibido o Carnaval (part. Caetano Veloso)
-78. Ivete Sangalo - Corazón Partío (Feat. Alejandro Sanz)
-79. Seba - Idas e Vindas
-80. Ivete Sangalo - Back At One (feat. Brian McKnight)
-81. Abadá Capoeira - O Dia Que O Berimbau Chorou
-82. Araketu - Minha Razão de Viver
-83. Ivete Sangalo - Um Sinal (part. Melim)
-84. Ivete Sangalo - Tempo de Alegria
+40. Daniela Mercury - Rapunzel
+41. Claudia Leitte - Saudade (part. Hungria Hip Hop)
+42. Babado Novo - Amor Perfeito
+43. Banda 007 - Prova de Amor
+44. Daniela Mercury - À Primeira Vista
+45. Bell Marques - Exagerei
+46. Timbalada - Água Mineral
+47. Evaristo Ferreira da Veiga - Hino da Independência do Brasil
+48. Banda Beijo - Baianidade Nagô
+49. Kaoma - Chorando Se Foi (Lambada)
+50. Cheiro De Amor - Pense Em Mim
+51. Léo Santana - Maravilhosa É Ela
+52. Claudia Leitte - Pássaros
+53. Margareth Menezes - Faraó Divindade do Egito
+54. Daniela Mercury - O Canto da Cidade
+55. Ivete Sangalo - Arerê
+56. Saulo Fernandes - Outra vez
+57. É o Tchan - Pau Que Nasce Torto/ Melô Do Tchan
+58. Ivete Sangalo - Teleguiado
+59. Bel Meirelles - Alerta contra a Dengue
+60. Gerônimo - É d&#x27;Oxum
+61. Abadá Capoeira - Um Grão de Areia
+62. Harmonia do Samba - Ninguém Explica Deus
+63. Banda Mel - Prefixo de Verão
+64. Chiclete Com Banana - Diga Que Valeu
+65. Ivete Sangalo - Vem Meu Amor
+66. Daniela Mercury - Ilê Pérola Negra
+67. Jammil e Uma Noites - Celebrar
+68. Saulo Fernandes - Tão Sonhada
+69. Jammil e Uma Noites - We Are Carnaval
+70. Cecília de Souza - Eu Sou o Teu Deus
+71. Netinho - Milla
+72. Ivete Sangalo - Sorte Grande (Poeira)
+73. Léo Santana - Santinha
+74. É o Tchan - A Nova Loira Do Tchan
+75. Bragaboys - Bomba
+76. Araketu - Amantes
+77. Abadá Capoeira - O Navio Negreiro
+78. Daniela Mercury - Proibido o Carnaval (part. Caetano Veloso)
+79. Ivete Sangalo - Back At One (feat. Brian McKnight)
+80. É o Tchan - É O Tchan No Havai
+81. Araketu - Minha Razão de Viver
+82. Abadá Capoeira - O Dia Que O Berimbau Chorou
+83. Ivete Sangalo - Corazón Partío (Feat. Alejandro Sanz)
+84. Ivete Sangalo - Um Sinal (part. Melim)
 85. Los Tigres del Norte - El Rengo del Gallo Giro
-86. Léo Santana - Vida de Solteiro
-87. Ivete Sangalo - Coleção
-88. Grupo Capoeira Angola - Ladainha Angola
-89. Chiclete Com Banana - Voa Voa
-90. Raça Pura - O Pinto
-91. Abadá Capoeira - Mandei Dizer
-92. Léo Santana - Aerocorpo (part. Felipe Araújo)
-93. Netinho - Menina
-94. Daniela Mercury - Chame Gente
-95. Trio da Huanna - Já pensou se eu cuzinho
-96. Daniela Mercury - Baianidade Nagô
+86. Grupo Capoeira Angola - Ladainha Angola
+87. Raça Pura - O Pinto
+88. Léo Santana - Aerocorpo (part. Felipe Araújo)
+89. Seba - Idas e Vindas
+90. Daniela Mercury - Chame Gente
+91. Léo Santana - Vida de Solteiro
+92. Netinho - Menina
+93. Chiclete Com Banana - Voa Voa
+94. Ivete Sangalo - Tempo de Alegria
+95. Timbalada - Minha História
+96. Ivete Sangalo - Coleção
 97. Olodum - I Miss Her
-98. Ivete Sangalo - Completo
-99. Abadá Capoeira - Aruanda Ê
-100. Chiclete Com Banana - Selva Branca
-101. Psirico - Lepo-Lepo
-102. Abadá Capoeira - Iaia Ioio
-103. Timbalada - Minha História
-104. Jammil e Uma Noites - Celebrar
-105. Daniela Mercury - Swing da cor
-106. Léo Santana - Liga Liga (part. Simone e Simaria)
-107. Claudia Leitte - Bola de Sabão
-108. Léo Santana - Uma Lá, Duas Cá (part. Maiara e Maraisa)
-109. Moises Cleyton - Depois da Prova
+98. Ivete Sangalo - Agora Eu Já Sei
+99. Léo Santana - Liga Liga (part. Simone e Simaria)
+100. Abadá Capoeira - Mandei Dizer
+101. Chiclete Com Banana - Selva Branca
+102. Trio da Huanna - Já pensou se eu cuzinho
+103. Claudia Leitte - Bola de Sabão
+104. Ivete Sangalo - Deixo
+105. Psirico - Lepo-Lepo
+106. Daniela Mercury - Swing da cor
+107. Abadá Capoeira - Aruanda Ê
+108. Grupo Anima - Sabiá Lá Na Gaiola
+109. Daniela Mercury - Baianidade Nagô
 110. Ivete Sangalo - Flor do Reggae
-111. Abadá Capoeira - Madeira Boa (charm)
-112. Ivete Sangalo - Agora Eu Já Sei
-113. Claudia Leitte - Amor Perfeito
-114. Ivete Sangalo - Deixo
-115. Saulo Fernandes - Não Precisa Mudar
-116. Parangolé - Open Bar
-117. Saulo Fernandes - Só Eu e Você
-118. Kinderlieder - Old MacDonald Had a Farm
-119. É o Tchan - Dança do Ventre
+111. Ivete Sangalo - Completo
+112. Moises Cleyton - Depois da Prova
+113. Léo Santana - Uma Lá, Duas Cá (part. Maiara e Maraisa)
+114. É o Tchan - Dança do Ventre
+115. Abadá Capoeira - Iaia Ioio
+116. Araketu - Cobertor
+117. Saulo Fernandes - Não Precisa Mudar
+118. É o Tchan - Pega no Bumbum
+119. Kinderlieder - Old MacDonald Had a Farm
 120. Ivete Sangalo - Muito Obrigado Axé (part. Maria Bethânia)
-121. Grupo Anima - Sabiá Lá Na Gaiola
-122. Jammil e Uma Noites - Colorir Papel
-123. É o Tchan - Pega no Bumbum
-124. É o Tchan - Brincadeira Da Tomada
-125. Harmonia do Samba - Tic Nervoso (part. Anitta)
-126. Harmonia do Samba - Respeite
-127. Léo Santana - Várias Novinhas
-128. Cecília de Souza - Volta Filho Meu
-129. Ivete Sangalo - No Me Compares (part. Alejandro Sanz)
-130. Netinho - Baianidade Nagô
-131. Margareth Menezes - Dandalunda
-132. Harmonia do Samba - Vem Neném
-133. Só Brega - Não Devo Nada a Ninguém
-134. Carlinhos Brown - Água Mineral
-135. Saulo Fernandes - Agradecer
-136. Saulo Fernandes - Preta
-137. Araketu - Cobertor
-138. Abadá Capoeira - Toda Bahia Chorou
-139. Grupo Capoeira Angola - Marinheiro só
-140. Vício Louco - Obsessão
-141. Jammil e Uma Noites - Chame Gente
-142. Olodum - Protesto Olodum
-143. Tomate - Cuida de Mim
-144. Araketu - AraKetu Bom Demais
-145. É o Tchan - Na Boquinha Da Garrafa
-146. Claudia Leitte - Versos Simples
-147. Trio da Huana - Coca-Cola Espumante
-148. Banda Eva - Me Abraça
-149. Saulo Fernandes - Encontro Marcado
-150. Banda Vingadora - Metralhadora
-151. Mestre Barrão - Mundo Enganador
-152. Chiclete Com Banana - Amor Perfeito
-153. Cecília de Souza - Não Se Pode Matar Um Crente
-154. Jammil e Uma Noites - Praieiro
+121. Claudia Leitte - Amor Perfeito
+122. Abadá Capoeira - Madeira Boa (charm)
+123. Saulo Fernandes - Só Eu e Você
+124. Parangolé - Open Bar
+125. Margareth Menezes - Dandalunda
+126. Grupo Capoeira Angola - Marinheiro só
+127. Ivete Sangalo - No Me Compares (part. Alejandro Sanz)
+128. Harmonia do Samba - Vem Neném
+129. Olodum - Protesto Olodum
+130. Saulo Fernandes - Preta
+131. Harmonia do Samba - Tic Nervoso (part. Anitta)
+132. Saulo Fernandes - Agradecer
+133. É o Tchan - Brincadeira Da Tomada
+134. Netinho - Baianidade Nagô
+135. Léo Santana - Várias Novinhas
+136. Abadá Capoeira - Toda Bahia Chorou
+137. Harmonia do Samba - Respeite
+138. Carlinhos Brown - Água Mineral
+139. Tomate - Cuida de Mim
+140. Jammil e Uma Noites - Colorir Papel
+141. Vício Louco - Obsessão
+142. Só Brega - Não Devo Nada a Ninguém
+143. Jammil e Uma Noites - Chame Gente
+144. Cecília de Souza - Volta Filho Meu
+145. Banda Eva - Me Abraça
+146. Jammil e Uma Noites - Praieiro
+147. Ivete Sangalo - Carro Velho
+148. Claudia Leitte - Don Juan (part. Belo)
+149. Araketu - Sempre Será
+150. Araketu - AraKetu Bom Demais
+151. Ivete Sangalo - Festa
+152. Saulo Fernandes - Encontro Marcado
+153. Banda Vingadora - Metralhadora
+154. Olodum - Deusa do Amor
 155. Daniela Mercury - O Mais Belo Dos Belos
-156. Araketu - Sempre Será
-157. Araketu - Saudação a Logun Edé
-158. Olodum - Deusa do Amor
-159. Ivete Sangalo - Carro Velho
-160. Chiclete Com Banana - Quero Chiclete
-161. Carlinhos Brown - Você, o Amor e Eu
-162. Pino Donaggio - Io Che Non Vivo Senza Te
-163. Timbalada - Mimar Você
+156. Chiclete Com Banana - Amor Perfeito
+157. Trio da Huana - Coca-Cola Espumante
+158. Axé Bahia - Morto Muito Louco
+159. Los Tigres del Norte - Camelia la tejana
+160. Carlinhos Brown - Você, o Amor e Eu
+161. Claudia Leitte - Versos Simples
+162. It Boys - Guys Don&#x27;t Like Me
+163. Terra Samba - Deus é Brasileiro
 164. Harmonia do Samba - Meus Sentimentos
-165. Claudia Leitte - Don Juan (part. Belo)
+165. É o Tchan - Na Boquinha Da Garrafa
 166. Ana Bárbara - Lo Busque
-167. Carlinhos Brown - Tantinho
-168. Ivete Sangalo - Festa
-169. Trem Bala - Eu bebo água
-170. Los Tigres del Norte - Camelia la tejana
-171. Araketu - Face Oculta
-172. Terra Samba - Deus é Brasileiro
-173. Olodum - Vem Meu Amor
-174. Cheiro De Amor - Doce Obsessão
-175. Chiclete Com Banana - Vumbora Amar
-176. It Boys - Guys Don&#x27;t Like Me
-177. Olodum - Madagascar Olodum
-178. Los Tiranos del Norte - HASTA LA MIEL AMARGA
-179. É o Tchan - Dança da Cordinha
-180. Axé Bahia - Morto Muito Louco
-181. Babado Novo - Pensando Em Você
-182. Ivete Sangalo - Lambada (Corpo Molinho) (part. Claudia Leitte)
-183. Mestre Toni Vargas - Noite Sem Lua
-184. Banda Eva - Baianidade Nagô
-185. Banda Mel - Ladeira do Pelô
-186. Olodum - Revolta Olodum
-187. Asa de Águia - Porto Seguro
-188. Harmonia do Samba - Mandei Meu Cavaco Chorar
-189. Carlinhos Brown - Ararinha
-190. Los Huracanes del Norte - 20 Mujeres De Negro
-191. Araketu - Bom Demais
-192. Chiclete Com Banana - Contando as Horas
-193. Chansons Enfantines - Alouette
-194. Chiclete Com Banana - Cabelo Raspadinho
-195. Claudia Leitte - Salvador
-196. Onda Choc - Ela Só Quer, Só Pensa Em Namorar
-197. Banda 007 - Não Vivo Sem Você
-198. Claudia Leitte - Baldin de Gelo
-199. Axel - Mi Corazón Es Tuyo (part. Kaay)
-200. Psirico - Mulher Brasileira (Toda Boa)
-201. Os Tincoãs - Cordeiro de Nanã
-202. Cecília de Souza - Desapareceu Um Povo
-203. Banda Eva - Miragem
-204. Banda Eva - Beleza Rara
-205. Trio da Huana - Cozinhar O Ovo
-206. Ivete Sangalo - Alô Paixão
-207. Daniela Mercury - Vermelho
-208. Olodum - Várias Queixas
-209. Jauperi - Telegrama
+167. Araketu - Saudação a Logun Edé
+168. Pino Donaggio - Io Che Non Vivo Senza Te
+169. Cecília de Souza - Não Se Pode Matar Um Crente
+170. Mestre Barrão - Mundo Enganador
+171. Cheiro De Amor - Doce Obsessão
+172. Chansons Enfantines - Alouette
+173. Claudia Leitte - Baldin de Gelo
+174. Chiclete Com Banana - Vumbora Amar
+175. Carlinhos Brown - Tantinho
+176. Timbalada - Mimar Você
+177. Chiclete Com Banana - Quero Chiclete
+178. Araketu - Face Oculta
+179. Axel - Mi Corazón Es Tuyo (part. Kaay)
+180. Babado Novo - Pensando Em Você
+181. Olodum - Madagascar Olodum
+182. Olodum - Vem Meu Amor
+183. Olodum - Revolta Olodum
+184. Los Tiranos del Norte - HASTA LA MIEL AMARGA
+185. Banda Eva - Baianidade Nagô
+186. Carlinhos Brown - Ararinha
+187. Ilê Aiyê - Que Bloco é Esse (part. Criolo)
+188. Chiclete Com Banana - Contando as Horas
+189. Chiclete Com Banana - Cabelo Raspadinho
+190. Onda Choc - Ela Só Quer, Só Pensa Em Namorar
+191. Mestre Toni Vargas - Noite Sem Lua
+192. É o Tchan - Dança da Cordinha
+193. Jammil e Uma Noites - Você É Tudo
+194. Banda Eva - Miragem
+195. Os Tincoãs - Cordeiro de Nanã
+196. Asa de Águia - Porto Seguro
+197. Daniela Mercury - Vermelho
+198. Harmonia do Samba - Mandei Meu Cavaco Chorar
+199. Ivete Sangalo - Lambada (Corpo Molinho) (part. Claudia Leitte)
+200. Los Huracanes del Norte - Nada Contigo
+201. Banda Mel - Ladeira do Pelô
+202. Banda Eva - Beleza Rara
+203. Jauperi - Telegrama
+204. Los Huracanes del Norte - 20 Mujeres De Negro
+205. Trem Bala - Eu bebo água
+206. Banda 007 - Não Vivo Sem Você
+207. Psirico - Mulher Brasileira (Toda Boa)
+208. Cecília de Souza - Desapareceu Um Povo
+209. Ivete Sangalo - Fã
 210. Pepeu - Nomes de Meninas
-211. Ivete Sangalo - Fã
-212. Los Huracanes del Norte - Nada Contigo
-213. Claudia Leitte - Carnaval (part. Pitbull)
-214. Ivete Sangalo - O Nosso Amor Venceu (part. Marília Mendonça)
-215. Axé Bahia - Tesouro De Pirata (Onda Onda)
-216. Cecília de Souza - Se a Cruz Falasse
-217. Ilê Aiyê - Que Bloco é Esse (part. Criolo)
-218. Ivete Sangalo - Olha
-219. Léo Santana - Só Toma Que Toma
-220. Harmonia do Samba - Tô Com Saudade
-221. Jammil e Uma Noites - Você É Tudo
-222. Olodum - Madagascar
-223. O Rei da Cacimbinha - Muriçoca
-224. Jammil e Uma Noites - Milla
-225. Banda Eva - Poema
+211. Araketu - Bom Demais
+212. Léo Santana - Mozão
+213. Trio da Huana - Cozinhar O Ovo
+214. Filhos de Jorge - Ziriguidum
+215. Ivete Sangalo - Olha
+216. Claudia Leitte - Salvador
+217. Claudia Leitte - Carnaval (part. Pitbull)
+218. Ivete Sangalo - Amor perfeito
+219. Neusa Pinho França Almeida - Hino de Brasilia
+220. Ivete Sangalo - O Nosso Amor Venceu (part. Marília Mendonça)
+221. Jammil e Uma Noites - Milla
+222. Olodum - Várias Queixas
+223. Cecília de Souza - Se a Cruz Falasse
+224. Banda Eva - Poema
+225. Harmonia do Samba - Tô Com Saudade
 226. Ivete Sangalo - Ioiô (part. Dilsinho)
-227. Filhos de Jorge - Ziriguidum
-228. Chiclete Com Banana - Eu Sou Soteropolitano
-229. Cheiro De Amor - Vai Sacudir, Vai Abalar
-230. Harmonia do Samba - Daquele Jeito
-231. É o Tchan - Gerere
-232. Ivete Sangalo - Amor perfeito
-233. Mc Parafuso e Mc Carol - Vou Largar de Barriga
+227. Mc Parafuso e Mc Carol - Vou Largar de Barriga
+228. O Rei da Cacimbinha - Muriçoca
+229. Harmonia do Samba - Daquele Jeito
+230. Ivete Sangalo - Alô Paixão
+231. Duas Medidas - La Raba (part. Lincoln Sena)
+232. Terra Samba - Liberar Geral
+233. Cheiro De Amor - Vai Sacudir, Vai Abalar
 234. Jauperi - Sandália de Couro
-235. Ivete Sangalo - Mainha Gosta Assim (part. Léo Santana)
-236. Duas Medidas - La Raba (part. Lincoln Sena)
-237. Tomate - Eu Te Amo Porra
-238. Léo Santana - Mozão
-239. Timbalada - Namoro a Dois
-240. Cheiro De Amor - Canto Ao Pescador
+235. Jauperi - Cidade Dos Poetas
+236. Axé Bahia - Tesouro De Pirata (Onda Onda)
+237. Jammil e Uma Noites - Ê Saudade!
+238. Feras do Forró - Nem Uma Carta
+239. Cheiro De Amor - Tem Cheiro de Amor No Ar
+240. Tomate - Eu Não Vou Embora
 241. Bell Marques - Diga Que Valeu
-242. Silvério Pessoa - Rei José
-243. Os Tincoãs - Deixa a Gira Girá
-244. Claudia Leitte - Balancinho
-245. Cheiro De Amor - Tem Cheiro de Amor No Ar
-246. Ivete Sangalo - Céu da Boca
-247. Neusa Pinho França Almeida - Hino de Brasilia
-248. Terra Samba - Liberar Geral
-249. Jauperi - Cidade Dos Poetas
-250. Mestre Barrão - Na Vida Só Vale Quem Tem
-251. Ivete Sangalo - Na Bahia
-252. Banda 007 - Bufalo do Marajó
-253. Yves Montand - Les Feuilles Mortes
-254. Banda 007 - Flores
-255. Léo Santana - Vai Dar PT
-256. Feras do Forró - Nem Uma Carta
-257. É o Tchan - Dança do Bumbum
+242. Cheiro De Amor - Canto Ao Pescador
+243. Léo Santana - Só Toma Que Toma
+244. José Cid - A Cabana Junto À Praia
+245. Olodum - Madagascar
+246. Tomate - Eu Te Amo Porra
+247. Chiclete Com Banana - Eu Sou Soteropolitano
+248. Ivete Sangalo - Mainha Gosta Assim (part. Léo Santana)
+249. Mestre Barrão - Na Vida Só Vale Quem Tem
+250. Claudia Leitte - Balancinho
+251. Banda 007 - Bufalo do Marajó
+252. Timbalada - Namoro a Dois
+253. Chicabana - Cerveja de Garrafa
+254. Os Tincoãs - Deixa a Gira Girá
+255. Ivete Sangalo - Céu da Boca
+256. É o Tchan - Gerere
+257. Chiclete Com Banana - Se Me Chamar Eu Vou
 258. Araketu - Tá Na Cara
-259. Jammil e Uma Noites - Ê Saudade!
-260. Tomate - Eu Não Vou Embora
-261. Ivete Sangalo - País Tropical
-262. Grupo Capoeira Angola - Canarinho de Alemanha
-263. Raça Pura - Juliana
-264. Chicabana - Cerveja de Garrafa
-265. Mary Poppins - Supercalifragilistiexpialidoce
-266. Cheiro De Amor - Dias de Sol
-267. Ivete Sangalo - Andar Com Fé (com Gilberto Gil)
-268. Grupo Capoeira Angola - A manteiga derramou
-269. Saulo Fernandes - O Azul e o Sol
-270. Banda Saira - Me Aceita de Volta
-271. Cecília de Souza - Trono Branco
-272. Banda Mel - Crença e Fé
-273. Chansons Enfantines - Au Clair de La Lune
-274. Ivete Sangalo - Abalou
-275. Ramon Ayala - Que Me Lleve El Diablo
-276. Jauperi - Amar É Bom
+259. Ivete Sangalo - Na Bahia
+260. Márcia Freire - Oxóssi
+261. Ramon Ayala - Que Me Lleve El Diablo
+262. Bell Marques - Amor Bacana
+263. Grupo Capoeira Angola - A manteiga derramou
+264. Banda Mel - Crença e Fé
+265. Jauperi - Amar É Bom
+266. Grupo Capoeira Angola - Canarinho de Alemanha
+267. Mary Poppins - Supercalifragilistiexpialidoce
+268. Cecília de Souza - Trono Branco
+269. Banda 007 - Flores
+270. Raça Pura - Juliana
+271. Yves Montand - Les Feuilles Mortes
+272. Cecília de Souza - Só Entra Lavado
+273. Ivete Sangalo - Andar Com Fé (com Gilberto Gil)
+274. Jauperi - Com Carinho
+275. Rapazolla - Coração
+276. Chansons Enfantines - Au Clair de La Lune
 277. Olodum - Alegria Geral
-278. José Cid - Como o macaco gosta de bananas
-279. Rapazolla - Coração
-280. Claudia Leitte - Beijar na Boca
-281. Léo Santana - Incendeia (part. Marília Mendonça)
-282. Wallace Collection - Daydream
-283. Cecília de Souza - Só Entra Lavado
-284. Kinderlieder - The Alphabet Song
-285. Ricardo Chaves - É O Bicho
-286. Bell Marques - Amor Bacana
-287. Babado Novo - Lirirrixa
-288. José Cid - Amar Como Jesus Amou
-289. José Cid - A Cabana Junto À Praia
-290. Timbalada - Margarida Perfumada
-291. Ivete Sangalo - Pererê
-292. Márcia Freire - Oxóssi
-293. Chiclete Com Banana - Se Me Chamar Eu Vou
-294. Abadá Capoeira - A Lua
+278. Ivete Sangalo - Abalou
+279. Saulo Fernandes - O Azul e o Sol
+280. Cheiro De Amor - Dias de Sol
+281. Banda Saira - Me Aceita de Volta
+282. É o Tchan - Dança do Bumbum
+283. Léo Santana - Vai Dar PT
+284. Ivete Sangalo - País Tropical
+285. Wallace Collection - Daydream
+286. Bell Marques - Se a Saudade Apertar
+287. Ivete Sangalo - Eu Nunca Amei Alguém Como Eu Te Amei
+288. Jammil e Uma Noites - Sublime
+289. José Cid - Amar Como Jesus Amou
+290. Babado Novo - Bola de Sabão
+291. José Cid - Como o macaco gosta de bananas
+292. Grupo Capoeira Angola - Camungerê
+293. Mestre Toni Vargas - Arrancado de Lá Luanda (Quando Eu Venho de Luanda)
+294. Saulo Fernandes - Vú
 295. Evinha - Cantiga Por Luciana
-296. Harmonia do Samba - Hipnotizou (part. Léo Santana)
-297. Beatriz Costa - Aldeia da Roupa Branca
-298. Mestre Toni Vargas - Arrancado de Lá Luanda (Quando Eu Venho de Luanda)
-299. Netinho - Bruna
-300. José Cid - Vem Viver a Vida, Amor
-301. Vício Louco - Meus Sentimentos
-302. Jauperi - É D&#x27;oxum
-303. Bell Marques - Se a Saudade Apertar
-304. Ivete Sangalo - Eu Nunca Amei Alguém Como Eu Te Amei
-305. Carlinhos Brown - Ashansu
-306. Banda 007 - Amor Proibido
-307. Parangolé - Sou Favela (part. Leva Noiz)
-308. Kaoma - Dançando Lambada
-309. Ivete Sangalo - Sá Marina
-310. Jauperi - Agô
-311. Mestre Toni Vargas - Dona Isabel
-312. Oz Bambaz - Manuela
-313. Jauperi - Com Carinho
-314. Léo Santana - Nossa Cor
-315. Babado Novo - Bola de Sabão
-316. Saulo Fernandes - Incrível Ser
-317. Ivete Sangalo - Eva
-318. Trio da Huanna - Vaza Canhão
-319. Saulo Fernandes - Veloso Cidade
-320. Ilê Aiyê - Ilê De Luz
-321. Chiclete Com Banana - Menina Me Dá Seu Amor
-322. Claudia Leitte - Bem Vindo Amor
-323. Trio da Huana - Coca-cola Espumante
-324. Carlinhos Brown - A Namorada
-325. Saulo Fernandes - Vú
-326. Psirico - O Psi chegou (Grito de guerra)
-327. Mestre Barrão - Eu vim de Angola
-328. Bell Marques - Eterno Enquanto Dure
-329. Sarajane - A Roda
-330. Chicabana - Eu Quero Só Você
-331. Ivete Sangalo - Cheguei Pra Te Amar (part. MC Livinho)
-332. Ivete Sangalo - Eu Nasci Há Dez Mil Anos Atrás
-333. Zé Paulo - A Ópera Dos Malandros
-334. Bragaboys - A Bomba
-335. José Cid - Minha Música
-336. Banda Luxúria - Invisto em Dobro
-337. Cheiro De Amor - Mente e Corpo
-338. Olodum - Berimbau
-339. Banda Luxúria - Gordinho Gostoso
-340. Ivete Sangalo - Cadê Dalila?
-341. Axé Blond - Pancadão
-342. Cheiro De Amor - Rebentão
-343. Luis Silva - Rookie en Venezuela
-344. Kyu Sakamoto - Sukiyaki
-345. Netinho - Preciso de Você
-346. Banda 007 - Eu Te Amo
-347. Netinho - Quer Casar Comigo
-348. Gerônimo - Eu Sou Negão
-349. Jammil e Uma Noites - Sublime
-350. Margareth Menezes - Pelourinho
-351. Ilê Aiyê - Negrume da Noite
-352. Tomate - Te Espero No Farol
-353. Terra Samba - Carrinho de Mão
-354. Banda Mel - Baianidade Nagô
-355. Cecília de Souza - Levanta e Vai
-356. Chicabana - Te Amo Sim
-357. Harmonia do Samba - Quebrou a Cara
-358. Grupo Capoeira Angola - Camungerê
-359. Los Tigres del Norte - Como aceite y Como el agua
-360. Carlinhos Brown - Quixabeira
-361. Grupo Capoeira Angola - Quem vem lá
-362. Claudia Leitte - Cartório (Part. Luan Santana)
-363. O Rei da Cacimbinha - Palavras Árabes
-364. Jauperi - Amanda
-365. José Cid - Vinte Anos
-366. Jammil e Uma Noites - Minha Estrela
-367. Ivete Sangalo - Lobo Mau
-368. Mestre Toni Vargas - Navio Negreiro
-369. Banda Beijo - Bate Lata
-370. Psirico - Mina Parceira e Boy Fechamento
-371. Saulo Fernandes - Ponte, Casa e Flor
-372. Ivete Sangalo - Te Dei Amor (Part. Alexandre Peixe)
-373. Daniela Mercury - Oyá Por Nós
-374. Xé Pop - Fala Pro Papai
-375. The Boom - Shima Uta
-376. Chiclete Com Banana - Cometa Mambembe
-377. Yves Montand - C&#x27;est si bon
-378. Psirico - Elas Gostam (Popa da Bunda) (part. ÀttooxxÁ)
-379. Chiclete Com Banana - Gritos de Guerra
-380. Banda Mel - Faraó Divindade do Egito
-381. Margareth Menezes - Uma História de Ifa
-382. Carlinhos Brown - Amor I Love You
-383. Banda Eva - Levada Louca
+296. Banda Luxúria - Gordinho Gostoso
+297. Léo Santana - Incendeia (part. Marília Mendonça)
+298. José Cid - Vem Viver a Vida, Amor
+299. Kinderlieder - The Alphabet Song
+300. Mestre Toni Vargas - Dona Isabel
+301. Beatriz Costa - Aldeia da Roupa Branca
+302. Ivete Sangalo - Cheguei Pra Te Amar (part. MC Livinho)
+303. Banda 007 - Amor Proibido
+304. Axé Blond - Pancadão
+305. Claudia Leitte - Bem Vindo Amor
+306. Trio da Huanna - Vaza Canhão
+307. Ricardo Chaves - É O Bicho
+308. Babado Novo - Lirirrixa
+309. Luis Silva - Rookie en Venezuela
+310. Saulo Fernandes - Incrível Ser
+311. Saulo Fernandes - Veloso Cidade
+312. Ivete Sangalo - Eva
+313. Netinho - Bruna
+314. Chiclete Com Banana - Cometa Mambembe
+315. Ilê Aiyê - Ilê De Luz
+316. Ilê Aiyê - Negrume da Noite
+317. Timbalada - Margarida Perfumada
+318. Banda Eva - Levada Louca
+319. Abadá Capoeira - A Lua
+320. Jauperi - É D&#x27;oxum
+321. Ivete Sangalo - Sá Marina
+322. Carlinhos Brown - Ashansu
+323. Claudia Leitte - Cartório (Part. Luan Santana)
+324. Terra Samba - Carrinho de Mão
+325. Carlinhos Brown - A Namorada
+326. José Cid - Vinte Anos
+327. Léo Santana - Nossa Cor
+328. Grupo Capoeira Angola - Quem vem lá
+329. Banda Luxúria - Vida Mais Ou Menos
+330. Netinho - Quer Casar Comigo
+331. Carlinhos Brown - Amor I Love You
+332. Jammil e Uma Noites - Cadarço, Sapato e Chiclete (Part. Saulo)
+333. Ivete Sangalo - Pererê
+334. Kaoma - Dançando Lambada
+335. Jauperi - Flores da Favela
+336. Harmonia do Samba - Hipnotizou (part. Léo Santana)
+337. Bell Marques - Eterno Enquanto Dure
+338. Mestre Barrão - Eu vim de Angola
+339. Pimenta Nativa - Maria Joaquina
+340. Gerônimo - Eu Sou Negão
+341. Chicabana - Eu Quero Só Você
+342. Ivete Sangalo - Cadê Dalila?
+343. Xé Pop - Fala Pro Papai
+344. Trio da Huana - Coca-cola Espumante
+345. Zé Paulo - A Ópera Dos Malandros
+346. Jauperi - Amanda
+347. Banda Luxúria - Invisto em Dobro
+348. Psirico - Lobo Mau (Vou Te Comer)
+349. Jauperi - Agô
+350. Netinho - Preciso de Você
+351. Sarajane - A Roda
+352. Umberto Tozzi - Eva
+353. Parangolé - Sou Favela (part. Leva Noiz)
+354. Cecília de Souza - Levanta e Vai
+355. Gera Samba - Melô do Tchan
+356. Mestre Toni Vargas - Navio Negreiro
+357. Margareth Menezes - Pelourinho
+358. Tomate - Te Espero No Farol
+359. Cheiro De Amor - Rebentão
+360. Bell Marques - Tanto Amor
+361. Psirico - O Psi chegou (Grito de guerra)
+362. Banda Luxúria - Roubou Meu Coração
+363. Cheiro De Amor - Mente e Corpo
+364. Banda Beijo - Bate Lata
+365. Chiclete Com Banana - Fogaréu
+366. Psirico - Mina Parceira e Boy Fechamento
+367. Chicabana - Te Amo Sim
+368. Ramon Ayala - Posadeña Linda
+369. Araketu - Carta Branca
+370. Saulo Fernandes - Ponte, Casa e Flor
+371. Banda Mel - Faraó Divindade do Egito
+372. O Rei da Cacimbinha - Palavras Árabes
+373. Claudia Leitte - Beijar na Boca
+374. Ivete Sangalo - Loucuras de Uma Paixão (part. Jorge Aragão)
+375. Ivete Sangalo - Flores
+376. Ivete Sangalo - Te Dei Amor (Part. Alexandre Peixe)
+377. Banda Mel - Baianidade Nagô
+378. Carlinhos Brown - Quixabeira
+379. José Cid - Minha Música
+380. Yves Montand - C&#x27;est si bon
+381. Roger Daltrey - Without Your Love
+382. Chiclete Com Banana - Gritos de Guerra
+383. Chiclete Com Banana - Menina Me Dá Seu Amor
 384. Cacuriá de Dona Teté - Jacaré Poiô
-385. Claudia Leitte - Sem Você Tô Mal (part. Pablo)
-386. Ivete Sangalo - Meu Maior Presente
-387. Jauperi - Flores da Favela
-388. Yamboo - Kalinka (Russo)
-389. Parangolé - Negro Lindo
-390. Só Brega - A Vida é Assim
-391. Nelson Ferreira - Hino do Recife
-392. Araketu - Tentação
-393. Jammil e Uma Noites - Cadarço, Sapato e Chiclete (Part. Saulo)
-394. Banda Luxúria - Vida Mais Ou Menos
-395. Umberto Tozzi - Eva
-396. Grupo Capoeira Angola - São Bento me chama
-397. Daniela Mercury - Meu Plano
-398. Jammil e Uma Noites - Acabou
-399. Araketu - Carta Branca
-400. Bell Marques - Tanto Amor
-401. Banda Luxúria - Roubou Meu Coração
-402. Chiclete Com Banana - Fogaréu
-403. O Rei da Cacimbinha - Ela Quer Pau
-404. Rocco Granata - Marina
-405. Babado Novo - A Camisa e o Botão
-406. Psirico - Lobo Mau (Vou Te Comer)
-407. Jauperi - Gente
-408. Léo Santana - Abana
-409. Ramon Ayala - Posadeña Linda
-410. Gera Samba - Melô do Tchan
-411. Asa de Águia - Como é que você foi embora
-412. Pimenta Nativa - Maria Joaquina
-413. Roger Daltrey - Without Your Love
-414. Mobilize - Sofrendo em Silêncio
-415. José Cid - Um Grande, Grande Amor
-416. Ivete Sangalo - Flores
-417. Grupo Capoeira Angola - Ô lá, ô lái
-418. Ric Ocasek - Emotion In Motion
-419. Olodum - Rosa
-420. Nuno da Câmara Pereira - Samaritana
-421. Chiclete Com Banana - Preciso Dormir Princesa
-422. Timbalada - Ashansú
-423. Banda Mel - E Lá Vou Eu
-424. Cecília de Souza - Aniversário
-425. Xico Bizerra - OFERENDAR
-426. Polentinha do Arrocha - Senta Em Mim, Xerecão
-427. Ivete Sangalo - Berimbau Metalizado
-428. Misora Hibari - Kawa No Nagare No Youni
-429. Ilê Aiyê - Canto da Cor
-430. Banda 007 - Pensando Em Você
-431. April - Oh! My Mistake
-432. Os Tincoãs - Na Beira do Mar
-433. Los Tigres del Norte - Golpes En El Corazón
-434. Abadá Capoeira - A Benguela
-435. Daniela Mercury - Crença e Fé
-436. Claudia Leitte - Falando Sério
-437. Léo Santana - Que Seja Com Você (part. Thascya)
-438. Vício Louco - É Tudo Ilusão
-439. Banda Mel - Protesto do Olodum
-440. Ilê Aiyê - Depois Que O Ilê Passar
-441. Banda Inala - Cawboy Viado
-442. Parangolé - Modo Pagodão
-443. Ramon Ayala - Hay Unos Ojos
-444. Ivete Sangalo - Loucuras de Uma Paixão (part. Jorge Aragão)
-445. Netinho - Capricho Dos Deuses
-446. Marreta You Planeta - Meu Amor Volta Pra Mim
-447. Daniela Mercury - Maimbê Dandá
-448. Ricchi e Poveri - Cosa Sei
-449. Cri-cri - La Patita
-450. Axé Bahia - Beijo na boca
-451. Parangolé - Sarra Toma
-452. Banda Luxúria - Invisto No Prazer
-453. Jongo da Serrinha - Pisei na Pedra
-454. Ricchi e Poveri - Mamma Maria
-455. Bell Marques - Lindo é Viver
-456. Chicabana - O Amor da Sua Vida
-457. Léo Santana - Tropa Inteligente
-458. Ivete Sangalo - Grão de Areia (part. Ferrugem)
-459. Asa de Águia - Com Amor
-460. Axel - Te Voy a Amar
-461. Olodum - Canto Ao Pescador
-462. Daniela Mercury - Pantera Negra Deusa
-463. Asa de Águia - Dia Dos Namorados
-464. Bel Meirelles - Alerta contra as DSTs
-465. Parangolé - Tô Na Band
-466. Adriano Correia de Oliveira - Rosinha
-467. Saulo Fernandes - A Gente Leve
-468. Claudia Leitte - Lacradora (part. Maiara e Maraisa)
-469. Chiclete Com Banana - Cara Caramba, Sou Camaleão
-470. Zé Paulo - Mocidade Independente 2017
-471. Timbalada - Toneladas de Desejo
-472. Parangolé - Liga da Justiça
-473. Psirico - Firme e Forte
-474. Grupo Capoeira Angola - Lá Vai Viola
-475. Banda 007 - Minha cara Metade
-476. Afrodisiaco - La Bele de Jour
-477. Banda Saira - Você Quem Eu Amo
-478. Babado Novo - Janeiro a Janeiro
-479. As Meninas - Nega Maluca
-480. Bell Marques - Vou Te Amar o Ano Inteiro
-481. Margareth Menezes - Ellegibo
-482. Claudia Leitte - Don&#x27;t Matter (part. Akon)
-483. Ana Person - Sistema Solar
-484. Ivete Sangalo - Na Base do Beijo
-485. Kuarto de Empregada - Você Subia
-486. Harmonia do Samba - Agachadinho
-487. Lenny Barros - Não Pare
-488. Chiclete Com Banana - A Fila Andou
-489. Adriano Correia de Oliveira - Cantar de Emigração
-490. Netinho - Beijo na Boca
-491. Cecéu Muniz - Sem Perceber
-492. Olodum - Akhenaton e Nefertiti
-493. Olodum - Nossa Gente
-494. Filhos de Jorge - Viver Em Paz
-495. Los Tucanes de Tijuana - Mis Tres Viejas
-496. Banda Inala - Toca a Pisadinha
-497. Axel - Somos uno
-498. Os Tincoãs - Ogundê
-499. Tomate - Anjo Bom
-500. Ivete Sangalo - Canibal
-501. Léo Santana - Bumbum No Paredão
-502. Cheiro De Amor - Pureza da Paixão
-503. Harmonia do Samba - Romance Virtual
-504. Bonde Dos Catchorros - Eu Quero Tu
-505. Mestre Barrão - Sinhazinha
-506. Ricchi e Poveri - Sarà perché ti amo
-507. Maurício Tizumba - Cinco Cantos de Moçambique
-508. Mestre Barrão - Esperança de ser livre
-509. Axé Bahia - Dança Da Manivela
-510. Ilê Aiyê - A Força do Ilê
-511. MC Nando - Na Sequência do Grave
-512. Mestre Barrão - Lampião subia a serra
-513. Abadá Capoeira - Dendê (fala Mansa)
-514. Bell Marques - Vumbora Amar
-515. Netinho - Fim de Semana
-516. Olodum - Requebra
-517. Hombres G - Devuelveme a Mi Chica
-518. Masao Sen - Kitaguni No Haru
-519. Ivete Sangalo - Tá Tudo Bem
-520. Tonho Matéria - Revolta da Chibata
-521. Terra Samba - Na Manteiga
-522. Banda Eva - Nosso amor é lindo
-523. Trio da Huanna - Passinho (Puta Que Pariu)
-524. Kristall Quintett - Zigge-zagge Hoi, Hoi, Hoi
-525. Sky Peace - Ame Ga Furu Kara Niji Ga Deru
-526. Ora Maté - Kamate
-527. Asa de Águia - Não Tem Lua
-528. Umberto Tozzi - Ti Amo
-529. O Rei da Cacimbinha - Pop 100
-530. Black Sonora - Capoeira Mata Um (zum Zum Zum)
-531. Saulo Fernandes - Zóio Teu
-532. Celso Viáfora - Cada Um Com Seu Cada Qual
-533. Asa de Águia - Dança do Vampiro
-534. Saulo Fernandes - Sol em Festa
-535. Babado Novo - Eu Fico
-536. Mestre Barrão - Lamento do Menino
-537. Chiclete Com Banana - Pout Porri do Interior
-538. Vanilda Guedes - Tempo de Buscar
-539. Danyel Gérard - Butterfly
-540. Zecchino D&#x27;oro - Volevo Un Gatto Nero
-541. Banda 007 - Gira Mundão
-542. Los Prisioneros - Sexo
-543. Eliezer Barcellos - A Prova Está Doendo
-544. Evinha - Esperar Pra Ver
-545. Timbalada - Na Beira do Mar
-546. Saulo Fernandes - Nosso Amor
-547. Bell Marques - Vumbora Vumbora
-548. Ramon Ayala - Un Puno De Tierra
-549. Los Tucanes de Tijuana - Amor Platonico
-550. Saulo Fernandes - Amor Com Um Q de Saudade
-551. Psirico - Subindo e Descendo
-552. Asa de Águia - Desejo de Amar
-553. Os Tincoãs - Saudação Aos Orixás
-554. Los Tigres del Norte - La Puerta Negra
-555. É o Tchan - Tchan na Selva
-556. Pimenta Nativa - Me Sinto Só
-557. Zé Paulo - Rala o Pinto
-558. Harmonia do Samba - Quebradeira
-559. Madalena Iglésias - Ele e Ela
-560. Banda 007 - Oi
-561. Adriano Correia de Oliveira - Cantar de Emigração (este Parte, Aquele Parte)
-562. Ivete Sangalo - Bota Pra Ferver
-563. Luis Enrique Mejía Godoy - Nicaragua Nicaragüita
-564. Beth - Don&#x27;t You Worry Child
-565. Babado Novo - You Don&#x27;t Have To Go
-566. Carlinhos Brown - Charles Ilê
-567. Umberto Tozzi - Gloria
-568. Fred Bongusto - Tu sei Così
-569. É o Tchan - Disque Tchan (Alô Tchan)
-570. Kaoma - Lambamor
-571. Ilê Aiyê - Deusa do Ébano
-572. Filhos de Jorge - Vai Que Cola
-573. Hombres G - Te Quiero
-574. Saulo Fernandes - Só Por Ti
-575. Eva - On Fleek
-576. Asa de Águia - Quebra aê
-577. Marcella Bella - Abbracciati
-578. Nuno da Câmara Pereira - Cavalo Ruço
-579. Araketu - Nossa Guerra Santa
-580. Claudia Leitte - Você Existe Em Mim
-581. Ilê Aiyê - O Mais Belo Dos Belos
-582. Timbalada - Acorda Cidade
-583. Netinho - Total
-584. Chicana - Vou Amar Você
-585. Rouxinol Faduncho - Fado Das Barracas
-586. Tomate - Parará
-587. Saulo Fernandes - Lua Cheia
-588. Abadá Capoeira - Zum Zum Zum
-589. Gaia Epicus - Star Wars
-590. Cheiro De Amor - Auê
-591. Davi Moraes - É D&#x27;oxum
-592. Cheiro De Amor - Balança Coqueiro
-593. Margareth Menezes - Preciso
-594. Dollar - Who Were You With In The Moonlight
-595. Chiclete Com Banana - Ulê Lê Lê Lê
-596. Banda Tsunami - Cada Um Pro Seu Lado
-597. Ana Bárbara - Arriba Arriba mexicana
-598. Gerônimo - Lambada da Delícia
-599. É o Tchan - Paquerei
-600. Kaleth Morales - Ella Es Mi Todo
-601. Margareth Menezes - Toté de Maiangá
-602. Ivete Sangalo - Narizinho
-603. Mestrando Charm - Sem Capoeira Eu Não Vivo
-604. Trio da Huanna - O nome dela é Marieta
-605. Chicabana - Ele Nunca Vai Saber
-606. Iran Costa - O Bicho
-607. Saulo Fernandes - Rua 15
-608. Os Tincoãs - Yansã, Mãe Virgem
-609. Mestre Toni Vargas - Me leva morena
-610. Terra Samba - Hora da Partida
-611. Margareth Menezes - CÔCO DO M
-612. Araketu - Pipoca
-613. Carlinhos Brown - O Que Seria
-614. José Cid - A Lenda D&#x27;el Rei D. Sebastião
-615. Psirico - Xenhenhém
-616. Os Tincoãs - Sabiá Roxa
-617. Quintal da Cultura - Então Tá Combinado
-618. Netinho - Presença Linda
-619. Boa Toda - Primeira Vez
-620. Abadá Capoeira - O Berimbau
-621. Banda Eva - Carnaval de Salvador
-622. Kaoma - Bantu
-623. Banda Eva - Rua 15
-624. José Cid - A Pouco E Pouco (favas Com Chouriço)
-625. É o Tchan - Dança Do Põe Põe
-626. Abadá Capoeira - A Capoeira e o Cantador
-627. Cacuriá de Dona Teté - Choro da Lera
-628. Banda Salvador - Jacó segurou o anjo
-629. Oz Bambaz - Piriri Pom Pom
-630. Los Tigres del Norte - Pacas De A Kilo
-631. Rafa e Pipo Marques - Tô de Boaça
-632. Cecília de Souza - O Trigo e o Joio
-633. Banda Eva - Encontro Marcado
-634. Saulo Fernandes - União
-635. Monchy y Alexandra - Hoja En Blanco
-636. Harmonia do Samba - Nova Paradinha
-637. Los Tucanes de Tijuana - Mis Tres Animales
-638. Gasparzinho - Rei Do Puteiro
-639. Naotaro Moriyama - Sakura
-640. Os Tincoãs - Canto Pra Yemanjá
-641. Grupo Solido - Nomas este Rey
-642. Chiclete Com Banana - Nana ê
-643. Abadá Capoeira - Abadá Capoeira
-644. Ivete Sangalo - Pensando Em Nós Dois (part. Seu Jorge)
-645. Daniela Mercury - Terra Festeira
-646. Abadá Capoeira - Regional de Bimba
-647. Ivete Sangalo - Dançando (part. Shakira)
-648. Banda Eva - Leva Eu
-649. Mauricio Castro - Pisa Na Cabeça do Diabo
-650. Nuno da Câmara Pereira - Fado do Cacilheiro
-651. Mestre Barrão - Saudade Que Faz Chorar
-652. Jammil e Uma Noites - Tchau, I Have To Go Now
-653. Léo Santana - Leite Condensado
-654. Ivete Sangalo - A Girafa
-655. Tanita Tikaram - Cathedral Song
-656. Sabu - Quizás si, quizás no
-657. Höhner - Jetzt Geht&#x27;s Los
-658. Bell Marques - Exagerei
-659. Chiclete Com Banana - Morango do Nordeste
-660. Parangolé - Rebolation
-661. Terra Samba - Boneco Doido
-662. Ivete Sangalo - Nossa Gente (Avisa Lá)
-663. Lucas e Roger - Teus Olhos (part. Cristiano Araújo)
-664. Thábata - Água Mineral
-665. Juan Carlos Alvarado - Cristo No Está Muerto
-666. Harmonia do Samba - Desafio
-667. Mestre Barrão - Sou Capoeira
-668. Bumba Meu Boi de Axixá - Bela Mocidade
-669. Cheiro De Amor - Quixabeira
-670. Babado Novo - Safado, Cachorro, Sem Vergonha
-671. Carlinhos Brown - Magalenha
-672. Chiclete Com Banana - Posso Sentir
-673. Claudia Leitte - Sorri, Sou Rei  (part. Natiruts)
-674. Gasparzinho - Vai No Cavalinho
-675. Daniela Mercury - Música De Rua
-676. Fuska Virado - Vou não Quero Não Posso Não (Minha Mulher não deixa)
-677. Ivete Sangalo - Não Me Conte Seus Problemas
-678. Léo Santana - Sem Love
-679. O Rei da Cacimbinha - Meu Pai É Foda
-680. Ivete Sangalo - Beijos de Hortelã
-681. Ivete Sangalo - Faraó Divindade do Egito / Ladeira do Pelô / Doce Obsessão
-682. Los Tigres del Norte - Ni Parientes Somos
-683. Karen Kirk - Jonas e o Peixe
-684. Banda Mel - Revolta Olodum
-685. Gasparzinho - Só Vou Com Meias Novas
-686. Jorge Celedon - Esta Vida
-687. Daniela Mercury - Como Vai Você
-688. Tomate - Aqui é o seu lugar
-689. Daniela Mercury - Minas Com Bahia
-690. Chiclete Com Banana - Balão Dourado
-691. Chiclete Com Banana - Mulher Amada
-692. Banda Vingadora - A Minha Mãe Deixa
-693. Nelson Ferreira - Evocação Nº 1
-694. Chiclete Com Banana - Ele Não Monta na Lambreta
-695. Ivete Sangalo - Hoje É Dia de Ivete! (Samba-Enredo Grande Rio 2017)
-696. Chicabana - Falar de Amor
-697. Jammil e Uma Noites - Pra Te Ter Aqui (acústico)
-698. Saulo Fernandes - Leve-Me Ao Mar
-699. Ivete Sangalo - O Farol
-700. Cri-cri - la Marcha De Las Letras
-701. É o Tchan - Bambole
-702. Tanita Tikaram - Twist In My Sobriety
-703. Banda Mel - Bateu Saudade
-704. Terra Samba - To Fraco
-705. Ivete Sangalo - À Vontade (part. Wesley Safadão)
-706. Banda Eva - Tudo Certo Na Bahia
-707. Ricchi e Poveri - Serà Porque Te Amo
-708. Gang do Samba - Raimunda
-709. Beatriz Costa - A agulha e o dedal
-710. Grupo Capoeira Angola - Apanha a laranja no chão
-711. Ivete Sangalo - Seus Planos
-712. Chiclete Com Banana - Mugegé
-713. Tita Merello - Se Dice de Mi
-714. Netinho - Sandra
-715. Moises Cleyton - Adorando e Vencendo
-716. Ricchi e Poveri - Come Vorrei
-717. Los Tigres del Norte - Carta Abierta
-718. Ivete Sangalo - Acelera Aê
-719. Liziane Brites - Sinais de Deus
-720. Bobby Goldsboro - Honey
-721. Ivete Sangalo - Bola de Sabão
-722. Chiclete Com Banana - Vem
-723. Harmonia do Samba - Jura de Amor
-724. Cacuriá de Dona Teté - Jabuti
-725. Abadá Capoeira - Mestre Dos Mestres
-726. Tomate - Coração
-727. Léo Santana - Um Tal de Toma
-728. Ivete Sangalo - Ducktales: Os Caçadores de Aventuras
-729. Banda Eva - Só Eu e Você
-730. Banda Saira - Primeiro Erro
-731. Clifford T. Ward - Gaye
-732. Ivete Sangalo - Bicho
-733. Jongo da Serrinha - Vapor Da Paraíba
-734. Hombres G - Sufre Mamon
-735. Ivete Sangalo - Estar Com Você (part. Helinho)
-736. Chiclete Com Banana - Chicleteiro Eu, Chicleteira Ela
-737. Terra Samba - Tá Tirando Onda
-738. Misora Hibari - Ai San San
-739. Cecília de Souza - Quero Ver Jerusalém
-740. Claudia Leitte - Flores No Meu Jardim (part. Planta e Raíz)
-741. Saulo Fernandes - Miragem
-742. Ivete Sangalo - Brasileiro
-743. Ivete Sangalo - A Casa Amarela (part. Saulo Fernandes)
-744. Daniela Mercury - É Carnaval
-745. Gasparzinho - Eu To Pegando Sua Irmã
-746. Claudia Leitte - Largadinho
-747. Liliane Lima - Sete Mergulho de Naamã
-748. Jauperi - Um Amor Que Eu Sinto Por Você
-749. Claudia Leitte - Lirirrixa
-750. Alinne Rosa - Lágrima Das Inimigas
-751. É o Tchan - Ralando o Tchan
-752. Mestre Barrão - Cobra Traiçoeira
-753. Chansons Enfantines - À La Claire Fontaine
-754. Banda Beijo - Peraê
-755. Luis Enrique Mejía Godoy - Palomita Guasiruca
-756. Margareth Menezes - Saudação ao Caboclo
-757. Os Sungas - Domingo De Manhã
-758. Ivete Sangalo - Faz Tempo
-759. Los Tucanes de Tijuana - Porque Me Enamore de Ti
-760. Prakatá - Paula Dentro
-761. A Patotinha - Não Empurre, Não Force
-762. Vixe Mainha - Café com Pão
-763. Léo Santana - Dia de Baile
-764. Chiclete Com Banana - Nana Rumbeira
-765. Jongo da Serrinha - Rosário De Maria
-766. Olodum - Canto Pro Senegal
-767. Ivete Sangalo - Si No Te Amase Tanto Así
-768. É o Tchan - Morena do Tchan
-769. Claudia Leitte - Famosa (Billionaire) (part. Travie McCoy)
-770. Cecéu Muniz - Brilho Das Estrelas
-771. Só Brega - Estrela
-772. Ivete Sangalo - Easy
-773. Chiclete Com Banana - Aê aê do amor
-774. Banda Eva - Chama da Paixão
-775. El Gran Combo - Y No Hago Mas Na&#x27;
-776. É o Tchan - Quebradeira (Joelhinho, Cabeça)
-777. Cri-cri - El Chorrito
-778. Karnak - Juvenar
-779. O Rei da Cacimbinha - Bota Álcool Aqui
-780. Fruta Quente - Festa do Siriá e Carimbó
-781. Banda Luxúria - É o Poder da Ostentação
-782. Chiclete Com Banana - Força E Pudor
-783. Abadá Capoeira - Areia Do Mar (pato)
-784. Banda Eva - We Are Carnaval
-785. Chiclete Com Banana - Rumba de Santa Clara
-786. Mestre Toni Vargas - Corta cana
+385. Só Brega - A Vida é Assim
+386. Bragaboys - A Bomba
+387. Banda 007 - Eu Te Amo
+388. Araketu - Tentação
+389. Margareth Menezes - Uma História de Ifa
+390. Olodum - Berimbau
+391. Xico Bizerra - OFERENDAR
+392. Grupo Capoeira Angola - São Bento me chama
+393. Daniela Mercury - Maimbê Dandá
+394. Claudia Leitte - Sem Você Tô Mal (part. Pablo)
+395. Ivete Sangalo - Meu Maior Presente
+396. Yamboo - Kalinka (Russo)
+397. Misora Hibari - Kawa No Nagare No Youni
+398. Harmonia do Samba - Quebrou a Cara
+399. Mobilize - Sofrendo em Silêncio
+400. Jammil e Uma Noites - Acabou
+401. Asa de Águia - Como é que você foi embora
+402. Banda Mel - Protesto do Olodum
+403. Timbalada - Ashansú
+404. Oz Bambaz - Manuela
+405. José Cid - Um Grande, Grande Amor
+406. Babado Novo - A Camisa e o Botão
+407. Kyu Sakamoto - Sukiyaki
+408. Jammil e Uma Noites - Minha Estrela
+409. Ivete Sangalo - Lobo Mau
+410. Chiclete Com Banana - Preciso Dormir Princesa
+411. Vício Louco - Meus Sentimentos
+412. Daniela Mercury - Oyá Por Nós
+413. Parangolé - Negro Lindo
+414. Bel Meirelles - Alerta contra as DSTs
+415. Vício Louco - É Tudo Ilusão
+416. April - Oh! My Mistake
+417. Ramon Ayala - Hay Unos Ojos
+418. Ivete Sangalo - Eu Nasci Há Dez Mil Anos Atrás
+419. Cecília de Souza - Aniversário
+420. Rocco Granata - Marina
+421. Zé Paulo - Mocidade Independente 2017
+422. Netinho - Capricho Dos Deuses
+423. Léo Santana - Abana
+424. Banda Luxúria - Invisto No Prazer
+425. The Boom - Shima Uta
+426. Axé Bahia - Beijo na boca
+427. Jauperi - Gente
+428. O Rei da Cacimbinha - Ela Quer Pau
+429. Psirico - Elas Gostam (Popa da Bunda) (part. ÀttooxxÁ)
+430. Mestre Barrão - Lampião subia a serra
+431. Chicabana - O Amor da Sua Vida
+432. Grupo Capoeira Angola - Ô lá, ô lái
+433. Daniela Mercury - Meu Plano
+434. Claudia Leitte - Falando Sério
+435. Los Tigres del Norte - Como aceite y Como el agua
+436. Ilê Aiyê - Depois Que O Ilê Passar
+437. Banda Inala - Cawboy Viado
+438. Léo Santana - Tropa Inteligente
+439. Claudia Leitte - Lacradora (part. Maiara e Maraisa)
+440. Polentinha do Arrocha - Senta Em Mim, Xerecão
+441. Margareth Menezes - Ellegibo
+442. Os Tincoãs - Na Beira do Mar
+443. Timbalada - Toneladas de Desejo
+444. Ivete Sangalo - Grão de Areia (part. Ferrugem)
+445. Léo Santana - Que Seja Com Você (part. Thascya)
+446. Ivete Sangalo - Na Base do Beijo
+447. Daniela Mercury - Crença e Fé
+448. Grupo Capoeira Angola - Lá Vai Viola
+449. Banda 007 - Minha cara Metade
+450. Zecchino D&#x27;oro - Volevo Un Gatto Nero
+451. Nelson Ferreira - Hino do Recife
+452. Parangolé - Modo Pagodão
+453. Babado Novo - Janeiro a Janeiro
+454. Bonde Dos Catchorros - Eu Quero Tu
+455. Ric Ocasek - Emotion In Motion
+456. Marreta You Planeta - Meu Amor Volta Pra Mim
+457. Psirico - Firme e Forte
+458. Sky Peace - Ame Ga Furu Kara Niji Ga Deru
+459. Afrodisiaco - La Bele de Jour
+460. Chiclete Com Banana - A Fila Andou
+461. Margareth Menezes - Preciso
+462. Bell Marques - Lindo é Viver
+463. Margareth Menezes - Toté de Maiangá
+464. Banda Mel - E Lá Vou Eu
+465. Asa de Águia - Não Tem Lua
+466. Chiclete Com Banana - Cara Caramba, Sou Camaleão
+467. Saulo Fernandes - Sol em Festa
+468. Ana Person - Sistema Solar
+469. Ivete Sangalo - Berimbau Metalizado
+470. Abadá Capoeira - A Benguela
+471. Asa de Águia - Com Amor
+472. Masao Sen - Kitaguni No Haru
+473. Olodum - Canto Ao Pescador
+474. Terra Samba - Na Manteiga
+475. Asa de Águia - Dia Dos Namorados
+476. Banda Eva - Nosso amor é lindo
+477. Chiclete Com Banana - Pout Porri do Interior
+478. Cecéu Muniz - Sem Perceber
+479. MC Nando - Na Sequência do Grave
+480. Los Prisioneros - Sexo
+481. Bell Marques - Vou Te Amar o Ano Inteiro
+482. Luis Enrique Mejía Godoy - Nicaragua Nicaragüita
+483. Ilê Aiyê - A Força do Ilê
+484. Banda 007 - Pensando Em Você
+485. Adriano Correia de Oliveira - Rosinha
+486. Los Tucanes de Tijuana - Mis Tres Viejas
+487. Os Tincoãs - Ogundê
+488. Cheiro De Amor - Pureza da Paixão
+489. Fred Bongusto - Tu sei Così
+490. Grupo Solido - Nomas este Rey
+491. Ricchi e Poveri - Cosa Sei
+492. Kuarto de Empregada - Você Subia
+493. Mestre Barrão - Esperança de ser livre
+494. Daniela Mercury - Pantera Negra Deusa
+495. Cri-cri - La Patita
+496. Filhos de Jorge - Viver Em Paz
+497. Olodum - Rosa
+498. Saulo Fernandes - A Gente Leve
+499. Jongo da Serrinha - Pisei na Pedra
+500. Léo Santana - Bumbum No Paredão
+501. Banda Inala - Toca a Pisadinha
+502. Saulo Fernandes - Amor Com Um Q de Saudade
+503. As Meninas - Nega Maluca
+504. Chicabana - Ele Nunca Vai Saber
+505. Gasparzinho - Rei Do Puteiro
+506. Ivete Sangalo - Canibal
+507. Timbalada - Na Beira do Mar
+508. Umberto Tozzi - Ti Amo
+509. Parangolé - Liga da Justiça
+510. Netinho - Fim de Semana
+511. Mestre Barrão - Sinhazinha
+512. Banda Saira - Você Quem Eu Amo
+513. Hombres G - Devuelveme a Mi Chica
+514. Marcella Bella - Abbracciati
+515. Danyel Gérard - Butterfly
+516. Mestre Barrão - Sou Capoeira
+517. Axé Bahia - Dança Da Manivela
+518. Axel - Somos uno
+519. Banda 007 - Gira Mundão
+520. Ora Maté - Kamate
+521. Carlinhos Brown - Charles Ilê
+522. O Rei da Cacimbinha - Pop 100
+523. Saulo Fernandes - Zóio Teu
+524. Axel - Te Voy a Amar
+525. Chiclete Com Banana - Morango do Nordeste
+526. Filhos de Jorge - Vai Que Cola
+527. Ricchi e Poveri - Sarà perché ti amo
+528. Olodum - Requebra
+529. Asa de Águia - Quebra aê
+530. Abadá Capoeira - O Berimbau
+531. Hombres G - Sufre Mamon
+532. Trio da Huanna - Passinho (Puta Que Pariu)
+533. Kristall Quintett - Zigge-zagge Hoi, Hoi, Hoi
+534. Kaleth Morales - Ella Es Mi Todo
+535. Ricchi e Poveri - Mamma Maria
+536. Sabu - Quizás si, quizás no
+537. Evinha - Esperar Pra Ver
+538. Ramon Ayala - Un Puno De Tierra
+539. Kaoma - Lambamor
+540. Lenny Barros - Não Pare
+541. Los Tigres del Norte - Golpes En El Corazón
+542. Terra Samba - Hora da Partida
+543. Saulo Fernandes - Só Por Ti
+544. Maurício Tizumba - Cinco Cantos de Moçambique
+545. Hombres G - Te Quiero
+546. Harmonia do Samba - Quebradeira
+547. Eva - On Fleek
+548. Silvério Pessoa - Rei José
+549. Davi Moraes - É D&#x27;oxum
+550. Netinho - Beijo na Boca
+551. Mestre Barrão - Saudade Que Faz Chorar
+552. Ilê Aiyê - Canto da Cor
+553. Nuno da Câmara Pereira - Samaritana
+554. Olodum - Akhenaton e Nefertiti
+555. Parangolé - Tô Na Band
+556. José Cid - A Pouco E Pouco (favas Com Chouriço)
+557. Netinho - Total
+558. Umberto Tozzi - Gloria
+559. Beatriz Costa - A agulha e o dedal
+560. Tomate - Anjo Bom
+561. Iran Costa - O Bicho
+562. Los Tucanes de Tijuana - Amor Platonico
+563. Banda Eva - Encontro Marcado
+564. Claudia Leitte - Don&#x27;t Matter (part. Akon)
+565. Asa de Águia - Desejo de Amar
+566. Quintal da Cultura - Então Tá Combinado
+567. Ivete Sangalo - Tá Tudo Bem
+568. Tonho Matéria - Revolta da Chibata
+569. Harmonia do Samba - Agachadinho
+570. Zé Paulo - Rala o Pinto
+571. José Cid - A Lenda D&#x27;el Rei D. Sebastião
+572. Claudia Leitte - Você Existe Em Mim
+573. Ilê Aiyê - O Mais Belo Dos Belos
+574. Saulo Fernandes - Rua 15
+575. Bell Marques - Vumbora Vumbora
+576. Os Tincoãs - Yansã, Mãe Virgem
+577. Abadá Capoeira - Dendê (fala Mansa)
+578. Psirico - Subindo e Descendo
+579. Daniela Mercury - Minas Com Bahia
+580. Margareth Menezes - CÔCO DO M
+581. Pimenta Nativa - Me Sinto Só
+582. Saulo Fernandes - Leve-Me Ao Mar
+583. Asa de Águia - Dança do Vampiro
+584. Gaia Epicus - Star Wars
+585. Carlinhos Brown - O Que Seria
+586. Mestre Barrão - Lamento do Menino
+587. Parangolé - Sarra Toma
+588. Vanilda Guedes - Tempo de Buscar
+589. Nuno da Câmara Pereira - Cavalo Ruço
+590. Ivete Sangalo - Dançando (part. Shakira)
+591. Eliezer Barcellos - A Prova Está Doendo
+592. Ana Bárbara - Arriba Arriba mexicana
+593. Claudia Leitte - Flores No Meu Jardim (part. Planta e Raíz)
+594. Beth - Don&#x27;t You Worry Child
+595. Babado Novo - You Don&#x27;t Have To Go
+596. Banda Eva - Rua 15
+597. Bell Marques - Vumbora Amar
+598. Ivete Sangalo - Narizinho
+599. Tanita Tikaram - Cathedral Song
+600. Léo Santana - Jeito Carinhoso
+601. Ricchi e Poveri - Come Vorrei
+602. Harmonia do Samba - Romance Virtual
+603. Tomate - Parará
+604. Los Tigres del Norte - La Puerta Negra
+605. Ivete Sangalo - Faz Tempo
+606. Ivete Sangalo - Nossa Gente (Avisa Lá)
+607. É o Tchan - Tchan na Selva
+608. Chiclete Com Banana - Nana ê
+609. Abadá Capoeira - Zum Zum Zum
+610. Banda Eva - Só Eu e Você
+611. Banda Tsunami - Cada Um Pro Seu Lado
+612. Léo Santana - Leite Condensado
+613. Adriano Correia de Oliveira - Cantar de Emigração
+614. Chiclete Com Banana - Ulê Lê Lê Lê
+615. Gerônimo - Lambada da Delícia
+616. Ivete Sangalo - A Girafa
+617. É o Tchan - Dança Do Põe Põe
+618. Lucas e Roger - Teus Olhos (part. Cristiano Araújo)
+619. É o Tchan - Disque Tchan (Alô Tchan)
+620. Black Sonora - Capoeira Mata Um (zum Zum Zum)
+621. Monchy y Alexandra - Hoja En Blanco
+622. Os Tincoãs - Saudação Aos Orixás
+623. Los Tucanes de Tijuana - Mis Tres Animales
+624. Naotaro Moriyama - Sakura
+625. Boa Toda - Primeira Vez
+626. Celso Viáfora - Cada Um Com Seu Cada Qual
+627. Cheiro De Amor - Auê
+628. Abadá Capoeira - Regional de Bimba
+629. Psirico - Xenhenhém
+630. Os Tincoãs - Sabiá Roxa
+631. Netinho - Presença Linda
+632. Banda Eva - Carnaval de Salvador
+633. Liliane Lima - Sete Mergulho de Naamã
+634. Kaoma - Bantu
+635. Léo Santana - Sem Love
+636. Adriano Correia de Oliveira - Cantar de Emigração (este Parte, Aquele Parte)
+637. Terra Samba - Tá Tirando Onda
+638. Olodum - Nossa Gente
+639. Claudia Leitte - Sorri, Sou Rei  (part. Natiruts)
+640. Ivete Sangalo - À Vontade (part. Wesley Safadão)
+641. Saulo Fernandes - Lua Cheia
+642. Banda Salvador - Jacó segurou o anjo
+643. Los Tigres del Norte - Pacas De A Kilo
+644. Jorge Celedon - Esta Vida
+645. Mestre Toni Vargas - Me leva morena
+646. Terra Samba - Boneco Doido
+647. Harmonia do Samba - Nova Paradinha
+648. Cacuriá de Dona Teté - Jabuti
+649. Os Tincoãs - Canto Pra Yemanjá
+650. Chiclete Com Banana - Balão Dourado
+651. Araketu - Pipoca
+652. Abadá Capoeira - Abadá Capoeira
+653. Banda 007 - Oi
+654. Ivete Sangalo - Bicho
+655. Fuska Virado - Vou não Quero Não Posso Não (Minha Mulher não deixa)
+656. Araketu - Nossa Guerra Santa
+657. Babado Novo - Safado, Cachorro, Sem Vergonha
+658. Ivete Sangalo - Bota Pra Ferver
+659. Moises Cleyton - Adorando e Vencendo
+660. Saulo Fernandes - Nosso Amor
+661. Grupo Capoeira Angola - Apanha a laranja no chão
+662. Saulo Fernandes - União
+663. Ivete Sangalo - Beijos de Hortelã
+664. Daniela Mercury - Rainha do Axé
+665. Abadá Capoeira - A Capoeira e o Cantador
+666. Trio da Huanna - O nome dela é Marieta
+667. Chiclete Com Banana - Mugegé
+668. Jauperi - Um Amor Que Eu Sinto Por Você
+669. Los Tigres del Norte - Ni Parientes Somos
+670. Netinho - Sandra
+671. Abadá Capoeira - Areia Do Mar (pato)
+672. Los Tigres del Norte - Carta Abierta
+673. Bobby Goldsboro - Honey
+674. Carlinhos Brown - Dois Grudados
+675. Léo Santana - Dia de Baile
+676. Léo Santana - Um Tal de Toma
+677. Chiclete Com Banana - Vem
+678. A Patotinha - Não Empurre, Não Force
+679. Ilê Aiyê - Deusa do Ébano
+680. Ivete Sangalo - Pensando Em Nós Dois (part. Seu Jorge)
+681. Ivete Sangalo - Ducktales: Os Caçadores de Aventuras
+682. Olodum - Canto Pro Senegal
+683. Babado Novo - Eu Fico
+684. Daniela Mercury - Terra Festeira
+685. Thábata - Água Mineral
+686. Juan Carlos Alvarado - Cristo No Está Muerto
+687. Rafa e Pipo Marques - Se Você Fosse Um Peixinho
+688. Chicabana - Falar de Amor
+689. Cheiro De Amor - Balança Coqueiro
+690. Mauricio Castro - Pisa Na Cabeça do Diabo
+691. Banda Luxúria - É o Poder da Ostentação
+692. O Rei da Cacimbinha - Meu Pai É Foda
+693. Carlinhos Brown - Magalenha
+694. Jammil e Uma Noites - Tchau, I Have To Go Now
+695. Timbalada - Acorda Cidade
+696. Gasparzinho - Só Vou Com Meias Novas
+697. Liziane Brites - Sinais de Deus
+698. Terra Samba - To Fraco
+699. Fruta Quente - Festa do Siriá e Carimbó
+700. Claudia Leitte - Largadinho
+701. Mestrando Charm - Sem Capoeira Eu Não Vivo
+702. Ivete Sangalo - Faraó Divindade do Egito / Ladeira do Pelô / Doce Obsessão
+703. É o Tchan - Ralando o Tchan
+704. Höhner - Jetzt Geht&#x27;s Los
+705. Margareth Menezes - Saudação ao Caboclo
+706. Rouxinol Faduncho - Fado Das Barracas
+707. Harmonia do Samba - Jura de Amor
+708. Juan Carlos Alvarado - El Borde de Su Manto
+709. Prakatá - Paula Dentro
+710. Madalena Iglésias - Ele e Ela
+711. Chiclete Com Banana - Ele Não Monta na Lambreta
+712. Ivete Sangalo - Ilumina
+713. Jongo da Serrinha - Vapor Da Paraíba
+714. Harmonia do Samba - Desafio
+715. Gasparzinho - Eu To Pegando Sua Irmã
+716. Banda Eva - Leva Eu
+717. Ivete Sangalo - Estar Com Você (part. Helinho)
+718. Moises Cleyton - Deus Está Me Vendo
+719. Cri-cri - la Marcha De Las Letras
+720. Los Tigres del Norte - Un Día a La Vez
+721. Chiclete Com Banana - Posso Sentir
+722. Banda Mel - Bateu Saudade
+723. Rafa e Pipo Marques - Tô de Boaça
+724. Karnak - Juvenar
+725. Jammil e Uma Noites - É Verão
+726. Cacuriá de Dona Teté - Choro da Lera
+727. Karen Kirk - Jonas e o Peixe
+728. Tita Merello - Se Dice de Mi
+729. Mestre Barrão - Cobra Traiçoeira
+730. Daniela Mercury - Pensar Em Você
+731. Oz Bambaz - Piriri Pom Pom
+732. Ivete Sangalo - Acelera Aê
+733. Luis Enrique Mejía Godoy - Palomita Guasiruca
+734. Adriano Correia de Oliveira - Trova do Vento que Passa
+735. Parangolé - Rebolation
+736. Schelmish - Tourdion
+737. Tomate - Coração
+738. Los Tucanes de Tijuana - Porque Me Enamore de Ti
+739. Gerônimo - Kirica na Buçanha
+740. Nelson Ferreira - Evocação Nº 1
+741. Clifford T. Ward - Gaye
+742. Los Hermanos Rosario - Un Dia En Nueva York
+743. Saulo Fernandes - Miragem
+744. Ivete Sangalo - Quanto Ao Tempo (part. Carlinhos Brown)
+745. Ivete Sangalo - Hoje É Dia de Ivete! (Samba-Enredo Grande Rio 2017)
+746. Cri-cri - El Rey de Chocolate
+747. Timbalada - Som dos Tribais
+748. O Rei da Cacimbinha - Bota Álcool Aqui
+749. Dollar - Who Were You With In The Moonlight
+750. Nuno da Câmara Pereira - Fado do Cacilheiro
+751. Só Brega - Estrela
+752. Cheiro De Amor - Quixabeira
+753. Ivete Sangalo - Easy
+754. Gerônimo - Agradecer e Abraçar
+755. Ivete Sangalo - A Casa Amarela (part. Saulo Fernandes)
+756. É o Tchan - Paquerei
+757. Daniela Mercury - É Carnaval
+758. King Africa - La Bomba
+759. Banda Eva - Tudo Certo Na Bahia
+760. Liziane Brites - Adorador de Verdade
+761. Asa de Águia - Simbora
+762. Chiclete Com Banana - Força E Pudor
+763. Chiclete Com Banana - Rumba de Santa Clara
+764. Chansons Enfantines - À La Claire Fontaine
+765. Manolo Escobar - Que Viva España
+766. Banda Vingadora - A Minha Mãe Deixa
+767. Chicana - Vou Amar Você
+768. Cecília de Souza - O Trigo e o Joio
+769. Kaleth Morales - Todo de Cabeza
+770. Tomate - Aqui é o seu lugar
+771. Ivete Sangalo - Bola de Sabão
+772. Os Sungas - Domingo De Manhã
+773. Raça Pura - Rap das Crianças
+774. Pablo Martins - Vai Entender
+775. Cecília de Souza - Não Pode Haver Silêncio
+776. Chiclete Com Banana - Nana Rumbeira
+777. Hitoto Yo - Hanamizuki
+778. É o Tchan - Morena do Tchan
+779. Claudia Leitte - Famosa (Billionaire) (part. Travie McCoy)
+780. Babado Novo - Caranguejo
+781. Bumba Meu Boi de Axixá - Bela Mocidade
+782. Chiclete Com Banana - Aê aê do amor
+783. Alinne Rosa - Lágrima Das Inimigas
+784. Cecília de Souza - Quero Ver Jerusalém
+785. Compay Segundo - Guantanamera
+786. El Gran Combo - Y No Hago Mas Na&#x27;
 787. O Rei da Cacimbinha - Na Pop 100 Ela Empina o Bumbum
-788. Ilê Aiyê - Alienação
-789. Feras do Forró - É Proibido Cochilar
-790. Juan Carlos Alvarado - El Borde de Su Manto
-791. Schelmish - Tourdion
-792. Harmonia do Samba - Malandrinha
-793. Las Ketchup - Asereje
-794. Psirico - Chupeta
-795. Guga Fernandes - Baseado no Amor
-796. Cri-cri - El Rey de Chocolate
-797. Pablo Martins - Vai Entender
-798. Timbalada - Som dos Tribais
-799. Babado Novo - Caranguejo
-800. Marreta You Planeta - Rolou Sentimento
-801. Gerônimo - Agradecer e Abraçar
-802. Los Tigres del Norte - Un Día a La Vez
-803. José Cid - Coração de Papelão
-804. Compay Segundo - Guantanamera
-805. Chicabana - Eu Bebo Agua Que Passarinho Nao Bebe
-806. Rafa e Pipo Marques - Se Você Fosse Um Peixinho
-807. Só Brega - Minha Liberdade
-808. Vagabundos - Relaxa
-809. Cheiro De Amor - Lero Lero
-810. Ivete Sangalo - Simples Assim
-811. Rouxinol Faduncho - Dona Maroca
-812. Daniela Mercury - Rainha do Axé
-813. Asa de Águia - Simbora
-814. Mestre Toni Vargas - Antigamente
-815. Daniela Mercury - Pensar Em Você
-816. Eyal Golan - Mi Shema&#x27;Amin
-817. Juan Carlos Alvarado - No basta
-818. Carlinhos Brown - Dois Grudados
-819. Mestre Toni Vargas - Capoeira Me Leva
-820. Ivete Sangalo - Lambada da Delícia / Cadê Meu Coco
-821. Chiclete Com Banana - Amar Você Não Dói
-822. Liziane Brites - Adorador de Verdade
-823. Chiclete Com Banana - Bem-Vindo Ao Mar
-824. Serú Girán - Seminare
-825. Abadá Capoeira - Homenagem aos Mestres Bimba e Pastinha
-826. Bom Bom - Vamos a La Playa
-827. O Rei da Cacimbinha - Beba Quik Mas Não Beba Nescal
-828. Adriano Correia de Oliveira - Morte que Mataste Lira
-829. Raça Pura - Rap das Crianças
-830. Banda Eva - Circulou
-831. Os Tincoãs - A Força da Jurema
-832. Jauperi - Agna
-833. Carlinhos Brown - Beija-Flor
-834. Moises Cleyton - Os Sonhos de Deus
-835. Takayuki Miyauchi - Tokkei Winspector
-836. Filhos de Jorge - Deixa o Corpo Falar (Não Para)
-837. Hitoto Yo - Hanamizuki
-838. Oz Bambaz - Ô papai
-839. Saulo Fernandes - De Repente Mente
-840. Olodum - Iemanjá Amor do Mar
-841. Olodum - A Ver Navios
-842. Vício Louco - Frio da Solidão
-843. Timbalada - Jesus É Palestino
-844. Cheiro De Amor - Abre Coração
-845. Trem Bala - Deixa eu Beber minhas cachaça
-846. Os Tincoãs - Canto e Danço Pra Curar
-847. Gerônimo - Dandá
-848. Chiclete Com Banana - Solteiro em Salvador
-849. Bel Meirelles - Alerta contra a Febre Amarela
-850. One Time Child - Ganza na Areia
-851. Moises Cleyton - O Amanhã
-852. Carlinhos Brown - Hino de Santo Antônio
-853. Cheiro De Amor - Que Arerê
-854. Banda 007 - Mala
-855. Lura - Na Ri Na
-856. Timbalada - Leva a Levada No Timbal
-857. Pino Donaggio - L&#x27; Ultimo Romantico
-858. Parangolé - Sarra Na Pista Novinha
-859. Moises Cleyton - Vaso de Alabastro
-860. Kaleth Morales - Todo de Cabeza
-861. Adriano Correia de Oliveira - Trova do Vento que Passa
-862. Saulo Fernandes - Terra Nossa
-863. Jammil e Uma Noites - Rega
-864. Mi Banda El Mexicano - Que Le Pasa A Lupita
-865. Zecchino D&#x27;oro - Il coccodrillo come fa?
-866. Ivete Sangalo - Teus Olhos (part. Marcelo Camelo)
-867. Tomate - Girassol
-868. Cecília de Souza - Não Pode Haver Silêncio
-869. Alinne Rosa - Vale
-870. Los Hermanos Rosario - Un Dia En Nueva York
-871. Asa de Águia - Xô Satanas
-872. Chiclete Com Banana - Você vacilou
-873. Carlinhos Brown - Meia Lua Inteira
-874. Banda Tsunami - Adeus
-875. Ivete Sangalo - Ilumina
-876. Ivete Sangalo - Quanto Ao Tempo (part. Carlinhos Brown)
-877. Netinho - Menina Linda
-878. Ivete Sangalo - Azul da Cor do Mar
-879. Chansons Enfantines - Lundi matin
-880. Moises Cleyton - Meu Alvo
-881. Banda Ultima Hora - Novinha Cabulosa
-882. Rapazolla - Eu tenho a força
-883. Araketu - Balança Brasil
-884. Dollar - I Need Your Love
-885. Claudia Leitte - Peixinho Fora D&#x27;água
-886. Terra Samba - Coisas do Amor
-887. Saulo Fernandes - Prece Ao Coração
-888. Netinho - Estrela Primeira (Amor Eu Fico)
-889. Los Tigres del Norte - Cuestión Olvidada
-890. King Africa - La Bomba
-891. Saulo Fernandes - Que Amor é Esse?
-892. Daniela Mercury - Sol Da Liberdade
-893. Asa de Águia - Corpo Moreno
-894. Jim Brickman - Hush Li&#x27;l Baby
-895. Oz Bambaz - Ela é Dog (Cachorra)
-896. Francisco Dos Santos - Água da Fonte da Vida
-897. Moises Cleyton - Deus Está Me Vendo
-898. Os Tincoãs - Obaluaê
-899. Celso Viáfora - Que Nem a Gente
-900. Ilê Aiyê - Mãe Natureza (tens um brilho latente)
-901. Olodum - É Lindo de Se Ver
-902. Manolo Escobar - Que Viva España
-903. Claudia Leitte - As Máscaras
-904. Conjunto Primavera - Amigo Mesero
-905. Saulo Fernandes - Circulou
-906. Babado Novo - Quem Bota É Ela!
-907. Timbalada - Regando-te
-908. Banda 007 - Big Som Saudade
-909. Gerônimo - Kirica na Buçanha
-910. Chichi Peralta - Procura
-911. Ivete Sangalo - O Sal da Terra
-912. Jammil e Uma Noites - Saudade Dói
-913. Asa de Águia - Manivela
-914. Zecchino D&#x27;oro - Forza Gesù
-915. Saulo Fernandes - Querer
-916. Ivete Sangalo - Não Quero Dinheiro
-917. Jammil e Uma Noites - As Canções Que Eu Fiz
-918. Ivete Sangalo - Amor Que Não Sai
-919. Olga Tañon - Basta Ya
-920. Daniela Mercury - Trio Metal
-921. Abadá Capoeira - Na Vida Se Cai
-922. Banda Eva - Só por ti
-923. Jauperi - Vestido de Prata
-924. Grupo Capoeira Angola - Bem-ti-vi botou
-925. Afrodisiaco - Já É
-926. Nelson Ferreira - Frevo da Saudade
-927. Lura - Cabo Verde
-928. Lindsey Harper - All Over Me
-929. Axé Bahia - Gata Brasileira
-930. Ivete Sangalo - Eternamente
-931. Monchy y Alexandra - Dos Locos
-932. Léo Santana - Deboche
-933. Grupo Capoeira Angola - Quebra jereba
-934. Jammil e Uma Noites - Mil Poemas
-935. Ricchi e Poveri - Mamma Maria (Spanish Version)
-936. Banda Eva - Reggae do Porto
-937. Trio da Huanna - No Fusca
-938. Banda Mel - Bagdá
-939. Mel McDaniel - Louisiana Saturday Night
-940. Chansons Enfantines - Sur le pont d&#x27;Avignon
-941. Margareth Menezes - Alegria da Cidade
-942. Chiclete Com Banana - Eu Fui Atrás de Um Caminhão
-943. Duas Medidas - Cabelos Ao Vento
-944. Joystick - Coelhinho da Páscoa
-945. Cheiro De Amor - Chama da Paixão
-946. Daniela Mercury - Ilê! Pérola Negra (O Canto do Negro)
-947. Asa de Águia - Amor Tropical
-948. Harmonia do Samba - Nossa Paradinha
-949. Moises Cleyton - Em Espírito e Em Verdade
-950. Takayuki Miyauchi - Kamen Rider Black Rx
-951. Rafa e Pipo Marques - Se Não Puder Voar
-952. Léo Santana - Vai No Chão
-953. Ricardo Chaves - Deixa a Chuva Cair
-954. Cheiro De Amor - Tudo a Ver
-955. Evinha - Casaco Marrom
-956. Gera Samba - Tá Com Raiva de Mim
-957. Babado Novo - Doce Desejo
-958. Os Tincoãs - Promessa Ao Gantois
-959. Vixe Mainha - Vou de navio, de avião ou vou de trem
-960. Ramon Ayala - Dos Monedas
-961. Oz Bambaz - Tome amor!
-962. Olodum - Desabafo Olodum
-963. Mestre Toni Vargas - Nego Forte
-964. Ivete Sangalo - Cadê Você?
-965. Zecchino D&#x27;oro - Quarantaquattro Gatti
-966. Paulo Márcio - Num Quarto de Hotel
-967. Só Brega - Pensando Em Você
-968. Trio da Huanna - Proibido Amor
-969. Chiclete Com Banana - Eu Quero Esse Amor
-970. Duas Medidas - Foi Paixão a Primeira Vista
-971. A Patotinha - Submarino Amarelo
-972. Chiclete Com Banana - Ê Saudade
-973. Olodum - Olodum Força Divina
-974. Léo Santana - Bumbum Carente
-975. Bell Marques - Dengo Meu
-976. Araketu - Telefona
-977. Banda Machos - Mi Luna, Mi Estrella
-978. Margareth Menezes - Madagascar Olodum
-979. MC Nando - Funk do Chiclete
-980. Jauperi - Se Joga
-981. Yves Montand - Le chant des partisans
-982. É o Tchan - Mexe, Mexe, Mainha
-983. Daniela Mercury - Levada Brasileira
-984. Chiclete Com Banana - Saia Rodada
-985. King Africa - Carnavalito (El Humahuaqueno)
-986. Daniela Mercury - Faraó Divindade do Egito
-987. Banda Chicana - Vou Amar Você
-988. Carlinhos Brown - Perere Peralta (saci)
-989. Mary Poppins - Chim Chim Cher-Ee
-990. Ivete Sangalo - De Ladinho
-991. Ilê Aiyê - Deusa do Ébano II
-992. Claudia Leitte - Insolação do Coração
-993. Claudia Leitte - Seu Ar (Bote Na Ideia)
-994. Terra Samba - Banho de Chuveiro
-995. Carmen Queiroz - Oxum e Yemanjá
-996. Grupo Capoeira Angola - Sai, sai, Catarina
-997. John Dowland - Now, o Now, I Needs must Part
-998. Netinho - Barracos
-999. Sonora De Margarita - Amor De Mis Amores
-1000. Mestre Barrão - Iuna mandingueira
+788. Bel Meirelles - Alerta contra a Febre Amarela
+789. É o Tchan - Quebradeira (Joelhinho, Cabeça)
+790. Daniela Mercury - Música De Rua
+791. Cri-cri - El Chorrito
+792. Monchy y Alexandra - Dos Locos
+793. Jauperi - Se Joga
+794. Ivete Sangalo - Não Me Conte Seus Problemas
+795. Ricchi e Poveri - Serà Porque Te Amo
+796. Gang do Samba - Raimunda
+797. Claudia Leitte - Lirirrixa
+798. Banda Mel - Revolta Olodum
+799. Mestre Toni Vargas - Corta cana
+800. Grupo Capoeira Angola - Sai, sai, Catarina
+801. Chiclete Com Banana - Amar Você Não Dói
+802. Conjunto Primavera - Amigo Mesero
+803. Alinne Rosa - Vale
+804. Filhos de Jorge - Deixa o Corpo Falar (Não Para)
+805. Banda Saira - Primeiro Erro
+806. Saulo Fernandes - Querer
+807. Abadá Capoeira - Mestre Dos Mestres
+808. Las Ketchup - Asereje
+809. Saulo Fernandes - De Repente Mente
+810. Banda Eva - Circulou
+811. Tomate - Girassol
+812. Psirico - Chupeta
+813. Chiclete Com Banana - Você vacilou
+814. Mestre Barrão - Moleque Saci
+815. Chansons Enfantines - Lundi matin
+816. MC Nando - Funk do Chiclete
+817. Banda Eva - Só por ti
+818. Jammil e Uma Noites - Pra Te Ter Aqui (acústico)
+819. Araketu - Balança Brasil
+820. Francisco Dos Santos - Água da Fonte da Vida
+821. Vício Louco - Frio da Solidão
+822. Timbalada - Jesus É Palestino
+823. Marreta You Planeta - Rolou Sentimento
+824. Cheiro De Amor - Abre Coração
+825. Ivete Sangalo - O Farol
+826. Axé Bahia - Gata Brasileira
+827. É o Tchan - Bambole
+828. Chiclete Com Banana - Solteiro em Salvador
+829. José Cid - Coração de Papelão
+830. Tanita Tikaram - Twist In My Sobriety
+831. Só Brega - Minha Liberdade
+832. Ivete Sangalo - Seus Planos
+833. Rouxinol Faduncho - Dona Maroca
+834. Chansons Enfantines - Sur le pont d&#x27;Avignon
+835. Moises Cleyton - Em Espírito e Em Verdade
+836. Banda Eva - We Are Carnaval
+837. Olodum - É Lindo de Se Ver
+838. Mestre Toni Vargas - Capoeira Me Leva
+839. Daniela Mercury - Como Vai Você
+840. Serú Girán - Seminare
+841. Feras do Forró - É Proibido Cochilar
+842. Jammil e Uma Noites - Rega
+843. Guga Fernandes - Baseado no Amor
+844. Mi Banda El Mexicano - Que Le Pasa A Lupita
+845. Bom Bom - Vamos a La Playa
+846. Banda Tsunami - Adeus
+847. Asa de Águia - Esporte é Viver
+848. Jauperi - Agna
+849. Vixe Mainha - Café com Pão
+850. Jammil e Uma Noites - Saudade Dói
+851. Carlinhos Brown - Beija-Flor
+852. Babado Novo - Doce Desejo
+853. Takayuki Miyauchi - Tokkei Winspector
+854. Jammil e Uma Noites - As Canções Que Eu Fiz
+855. Oz Bambaz - Tome amor!
+856. Gasparzinho - Vai No Cavalinho
+857. Netinho - Menina Linda
+858. Ivete Sangalo - Azul da Cor do Mar
+859. Moises Cleyton - O Amanhã
+860. Rapazolla - Eu tenho a força
+861. Léo Santana - Deboche
+862. Cecéu Muniz - Brilho Das Estrelas
+863. Chiclete Com Banana - Que Força é Essa
+864. Chiclete Com Banana - Ê Saudade
+865. Misora Hibari - Ai San San
+866. Gerônimo - Dandá
+867. Netinho - Estrela Primeira (Amor Eu Fico)
+868. One Time Child - Ganza na Areia
+869. Carlinhos Brown - Hino de Santo Antônio
+870. Los Tigres del Norte - Cuestión Olvidada
+871. Cheiro De Amor - Que Arerê
+872. Saulo Fernandes - Terra Nossa
+873. Banda Mel - Bagdá
+874. O Rei da Cacimbinha - Beba Quik Mas Não Beba Nescal
+875. Margareth Menezes - Alegria da Cidade
+876. Os Tincoãs - Obaluaê
+877. Chicabana - Vamos Pra Lua
+878. Joystick - Coelhinho da Páscoa
+879. Sonora De Margarita - Amor De Mis Amores
+880. Banda Beijo - Peraê
+881. Duas Medidas - Paredão Das Amigas
+882. Ilê Aiyê - Alienação
+883. Asa de Águia - Amor Tropical
+884. Zecchino D&#x27;oro - Il coccodrillo come fa?
+885. Harmonia do Samba - Malandrinha
+886. Ivete Sangalo - Teus Olhos (part. Marcelo Camelo)
+887. Moises Cleyton - Meu Alvo
+888. Chichi Peralta - Procura
+889. Gera Samba - Tá Com Raiva de Mim
+890. Asa de Águia - Manivela
+891. Zecchino D&#x27;oro - Forza Gesù
+892. Léo Santana - Bumbum Carente
+893. Saulo Fernandes - Prece Ao Coração
+894. MC Nando - Amor Bandido
+895. Asa de Águia - Xô Satanas
+896. Oz Bambaz - Ô papai
+897. Ivete Sangalo - Cadê Você?
+898. Daniela Mercury - Trio Metal
+899. Olodum - Iemanjá Amor do Mar
+900. Paulo Márcio - Num Quarto de Hotel
+901. Só Brega - Pensando Em Você
+902. Saulo Fernandes - Que Amor é Esse?
+903. Viejas Locas - Me Gustas Mucho
+904. Chiclete Com Banana - Fé Brasileira
+905. Dollar - I Need Your Love
+906. Chiclete Com Banana - Chicleteiro Eu, Chicleteira Ela
+907. Os Tincoãs - Canto e Danço Pra Curar
+908. Terra Samba - Coisas do Amor
+909. Ivete Sangalo - Brasileiro
+910. Margareth Menezes - Madagascar Olodum
+911. José Cid - Mais Um Dia
+912. Saulo Fernandes - Ancestral
+913. Gerônimo - Jubiabá
+914. Vagabundos - Relaxa
+915. Moises Cleyton - Vaso de Alabastro
+916. Banda 007 - Mala
+917. Ivete Sangalo - Simples Assim
+918. Daniela Mercury - Faraó Divindade do Egito
+919. Banda Eva - Reggae do Porto
+920. Carlinhos Brown - Perere Peralta (saci)
+921. Lura - Na Ri Na
+922. Ivete Sangalo - O Doce
+923. Gerônimo - A gata devoradora
+924. As Meninas - Tapa Aqui, Descobre Ali
+925. Asa de Águia - O Que Tem Que Ser Será
+926. Rafa e Pipo Marques - Se Não Puder Voar
+927. Claudia Leitte - Seu Ar (Bote Na Ideia)
+928. Terra Samba - Banho de Chuveiro
+929. Léo Santana - Vai No Chão
+930. Celso Viáfora - Que Nem a Gente
+931. Pino Donaggio - L&#x27; Ultimo Romantico
+932. Eyal Golan - Mi Shema&#x27;Amin
+933. Juan Carlos Alvarado - No basta
+934. Claudia Leitte - Claudinha Bagunceira
+935. Saulo Fernandes - Minha Pequena Eva
+936. Ivete Sangalo - Empurra-Empurra
+937. Chiclete Com Banana - Bem-Vindo Ao Mar
+938. Babado Novo - Quem Bota É Ela!
+939. Abadá Capoeira - Homenagem aos Mestres Bimba e Pastinha
+940. Chiclete Com Banana - Foi Por Esse Amor
+941. Olodum - Arco-íris de Madagáscar
+942. Timbalada - Regando-te
+943. Ivete Sangalo - A Galera
+944. Takayuki Miyauchi - Kamen Rider Black Rx
+945. Chiclete Com Banana - Mulher Amada
+946. Os Tincoãs - A Força da Jurema
+947. Claudia Leitte - Dyer Maker
+948. Claudia Leitte - Signs
+949. Jongo da Serrinha - Rosário De Maria
+950. Os Tincoãs - Promessa Ao Gantois
+951. Ivete Sangalo - Amor Que Não Sai
+952. Harmonia do Samba - Uma Chance
+953. Ivete Sangalo - Si No Te Amase Tanto Así
+954. Olga Tañon - Basta Ya
+955. Abadá Capoeira - Na Vida Se Cai
+956. Afrodisiaco - Já É
+957. Alinne Rosa - Isso Aqui É Salvador
+958. Lindsey Harper - All Over Me
+959. Trem Bala - Deixa eu Beber minhas cachaça
+960. Banda Chicana - Vou Amar Você
+961. Claudia Leitte - Peixinho Fora D&#x27;água
+962. Ivete Sangalo - Eternamente
+963. Araketu - Telefona
+964. Banda Eva - Chama da Paixão
+965. Banda Machos - Mi Luna, Mi Estrella
+966. Banda Machos - La Niña Fresa
+967. Carmen Queiroz - Oxum e Yemanjá
+968. Grupo Excitasamba - A Gente Se Combina Tanto
+969. Abadá Capoeira - Chamado De Angola
+970. Jammil e Uma Noites - Mil Poemas
+971. Daniela Mercury - Levada Brasileira
+972. Oz Bambaz - Ela é Dog (Cachorra)
+973. Saulo Fernandes - Circulou
+974. Banda Eva - Flores
+975. Hosokawa Takashi - Kita Sakaba
+976. Mel McDaniel - Louisiana Saturday Night
+977. Timbalada - Toque de Timbaleiro
+978. Carla Visi - Só Chamei Porque Te Amo
+979. Timbalada - Leva a Levada No Timbal
+980. John Dowland - Now, o Now, I Needs must Part
+981. Netinho - Barracos
+982. Daniela Mercury - Ilê! Pérola Negra (O Canto do Negro)
+983. Parangolé - Sarra Na Pista Novinha
+984. Ivete Sangalo - Lambada da Delícia / Cadê Meu Coco
+985. Giselli Cristina - Em Santidade
+986. Moises Cleyton - Os Sonhos de Deus
+987. Adriano Correia de Oliveira - Morte que Mataste Lira
+988. Yves Montand - Bella Ciao
+989. Daniela Mercury - GeraçãO Perdida
+990. Banda Ultima Hora - Novinha Cabulosa
+991. Chiclete Com Banana - Foi Deus
+992. Ricardo Chaves - Deixa a Chuva Cair
+993. Manolo Escobar - Caballo viejo
+994. Carlos Neto - Merengue do Flerte
+995. José Cid - Cai neve em nova York
+996. Polentinha do Arrocha - Poderosa
+997. Filhos de Jorge - Ela Tem o Dendê
+998. Bell Marques - Dengo Meu
+999. Ramon Ayala - Dos Monedas
+1000. Carlinhos Brown - Meia Lua Inteira
