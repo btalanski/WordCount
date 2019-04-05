@@ -1,9 +1,16 @@
 node_modules/*
 data/*
+data/*/songs_html/*
+data/*/songs/*
 package-lock.json
 !data/sertanejo/
 !data/funk/
 !data/axe/
 !data/samba/
 !data/forro/
+!data/bossa_nova/
+!data/gospel/
+!data/brega/
+!data/samba_enredo/
+!data/pagode/
 !data/README.md
