@@ -1,0 +1,15 @@
+# {{capitalize genre}} #
+Lista de palavras com maior ocorrência em letras de {{capitalize genre}}.
+
+Ao todo foram analisadas 1000 letras e as 50 palavras de maior occorência foram as seguintes: 
+
+Palavra | Ocorrências
+--- | --- |
+{{#each words}}
+{{capitalize this.word}} | {{this.count}}
+{{/each}}
+
+### Canções analisadas: ###
+{{#each songs}}
+{{indexFrom1 @index}}. {{this}}
+{{/each}}

@@ -1,0 +1,5 @@
+## List of Songs ##
+
+word | count
+--- | --- |
+{{#each words}}{{this.word}} | {{this.count}}{{/each}}

@@ -1,7 +1,7 @@
 const assert = require('assert')
 const fs = require("fs");
 const path = require("path");
-const word_count = require('../word_count.js');
+const word_count = require('../functions/word_count.js');
 const expect = require('chai').expect;
 
 it('should return true', () => {

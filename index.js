@@ -4,10 +4,13 @@ const writeToFile = require("./functions/writeToFile.js");
 const extractSongLyricsFromHtml = require("./functions/extractSongLyricsFromHtml.js");
 const word_count = require("./functions/word_count.js");
 const slug = require('slug');
-const cleanUpBeforeStart = require("./functions/cleanUpBeforeStart.js");
+const cleanUpBeforeStart = require("./functions/cleanUp.js").cleanUpBeforeStart;
+const cleanUpFinish = require("./functions/cleanUp.js").cleanUpAfterFinish;
 const args = require('minimist')(process.argv.slice(2));
+const renderTemplate = require('./functions/templateRender.js');
 const fs = require('fs');
 const path = require('path');
+const templatesDir = "./templates";
 
 const init = (args) => {
     const { url = "", baseDir = "", interval: scrappeInterval = 1000 } = args;
@@ -27,87 +30,92 @@ const init = (args) => {
                 extractSongLinksAndTitlesFromHtml(html).then(data => {
                     const { songs = [], urls = [] } = data;
 
-                    if (songs.length > 0 && urls.length > 0) {
-                        writeToFile(`${base_dir}/songs.txt`, songs.join("\r\n"))
-                            .then(() => console.log("File songs.txt created sucessfully"))
-                            .catch((err) => console.log(`Error writing songs.txt : ${err}`));
-
-                        writeToFile(`${base_dir}/songs.json`, JSON.stringify(songs))
-                            .then(() => console.log("File songs.json created sucessfully"))
-                            .catch((err) => console.log(`Error writing songs.json : ${err}`));
-
-                        const scrappeHtmlFromUrls = new Promise((resolve, reject) => {
-                            urls.reduce((prevPromise, item, i, urls) => {
-                                const { url, title } = item;
-
-                                return prevPromise.then(() => {
-                                    return scrappeUrl(url, scrappeInterval).then(html => {
-                                        const msg = `Downloaded ${i + 1} of ${urls.length}`;
-                                        const filename = `${i.toString().padStart(2, '0')}-${slug(title)}.html`;
-
-                                        writeToFile(`${html_dir}/${filename}`, html)
-                                            .then(() => console.log(`${msg} - ${filename} saved successfully`))
-                                            .catch(err => console.log(`${msg} - Error: ${err}`))
-                                            .finally(() => {
-                                                if (i >= urls.length - 1) resolve();
-                                            });
-
-                                    }).catch(err => console.log(`Error downloading ${url}`, err));
-                                });
-                            }, Promise.resolve(''));
-                        });
-
-                        scrappeHtmlFromUrls.then(() => {
-                            console.log("Download finished");
-
-                            let files = fs.readdirSync(html_dir);
-                            files = Array.isArray(files) ? files : [files];
-
-                            const lyrics_list = files.map((file) => {
-                                const html = fs.readFileSync(path.join(html_dir, file), 'utf8');
-                                const lyrics = extractSongLyricsFromHtml(html);
-                                writeToFile(`${text_dir}/${file.split('.')[0]}.txt`, lyrics);
-                                return lyrics;
-                            });
-
-                            const words = lyrics_list.reduce((words, text) => {
-                                const words_list = word_count(text);
-                                return words.concat(words_list);
-                            }, []);
-
-
-                            const dictionary = words.reduce((dictionary, key) => {
-                                if (dictionary[key]) {
-                                    dictionary[key] = dictionary[key] + 1;
-                                }
-                                else {
-                                    dictionary[key] = 1
-                                }
-
-                                return dictionary;
-                            }, {});
-
-                            const sorted_dictionary = Object.keys(dictionary)
-                                .map(word => ({ word, count: dictionary[word] }))
-                                .sort((a, b) => a.count - b.count).reverse();
-
-                            //TO DO: Move to it's own function
-                            Promise.all([
-                                writeToFile(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary)),
-                                writeToFile(`${base_dir}/words_50.json`, JSON.stringify(sorted_dictionary.slice(0, 49))),
-                            ])
-                                .then(() => console.log("File words.json saved successfully"))
-                                .finally(() => {
-                                    console.log("Process completed");
-                                    process.exit();
-                                });
-
-
-                        });
-                    } else {
+                    if (urls.length == 0) {
                         console.log("No songs found on the requested page");
                         process.exit();
                     }
+
+                    const scrappeHtmlFromUrls = new Promise((resolve, reject) => {
+                        urls.reduce((prevPromise, item, i, urls) => {
+                            const { url, title } = item;
+
+                            return prevPromise.then(() => {
+                                return scrappeUrl(url, scrappeInterval).then(html => {
+                                    const msg = `Downloaded ${i + 1} of ${urls.length}`;
+                                    const filename = `${i.toString().padStart(2, '0')}-${slug(title)}.html`;
+
+                                    writeToFile(`${html_dir}/${filename}`, html)
+                                        .then(() => console.log(`${msg} - ${filename} saved successfully`))
+                                        .catch(err => console.log(`${msg} - Error: ${err}`))
+                                        .finally(() => {
+                                            if (i >= urls.length - 1) resolve();
+                                        });
+
+                                }).catch(err => console.log(`Error downloading ${url}`, err));
+                            });
+                        }, Promise.resolve(''));
+                    });
+
+                    scrappeHtmlFromUrls.then(() => {
+                        console.log("Download finished");
+                        console.log("Processing data");
+
+                        let files = fs.readdirSync(html_dir);
+                        files = Array.isArray(files) ? files : [files];
+
+                        const lyrics_list = files.map((file) => {
+                            const html = fs.readFileSync(path.join(html_dir, file), 'utf8');
+                            const lyrics = extractSongLyricsFromHtml(html);
+                            writeToFile(`${text_dir}/${file.split('.')[0]}.txt`, lyrics);
+                            return lyrics;
+                        });
+
+                        const words = lyrics_list.reduce((words, text) => {
+                            const words_list = word_count(text);
+                            return words.concat(words_list);
+                        }, []);
+
+
+                        const dictionary = words.reduce((dictionary, key) => {
+                            if (dictionary[key]) {
+                                dictionary[key] = dictionary[key] + 1;
+                            }
+                            else {
+                                dictionary[key] = 1
+                            }
+
+                            return dictionary;
+                        }, {});
+
+                        const sorted_dictionary = Object.keys(dictionary)
+                            .map(word => ({ word, count: dictionary[word] }))
+                            .sort((a, b) => a.count - b.count).reverse();
+
+                        const readme = renderTemplate(
+                            fs.readFileSync(path.join(__dirname, 'templates/readme.handlebars'), 'utf8'),
+                            {
+                                genre: baseDir,
+                                words: sorted_dictionary.slice(0, 49),
+                                songs: songs,
+                            }
+                        );
+
+                        //TO DO: Can be improved
+                        return Promise.all([
+                            writeToFile(`${base_dir}/words.json`, JSON.stringify(sorted_dictionary)),
+                            writeToFile(`${base_dir}/songs.json`, JSON.stringify(songs)),
+                            writeToFile(`${base_dir}/README.md`, readme)
+                        ]).then((files) => {
+                            files.forEach(f => console.log(`File ${f} saved successfully`))
+                        });
+
+                    }).finally(() => {
+                        cleanUpFinish(baseDir).then(() => {
+                            console.log("Process complete");
+                            process.exit();
+                        })
+                    });
+
                 })
             })
             .catch((err) => {
