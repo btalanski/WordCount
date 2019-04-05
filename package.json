@@ -1,16 +1,13 @@
 {
   "name": "scrapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esse projeto tem como objetivo mapear as palavras mais usadas em letras de canções dos gêneros mais populares no Brasil, ex: Funk, Samba, Sertanejo, etc.",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "start": "node index.js",
-    "get_songs": "node getSongs.js",
-    "get_song": "node getSongLyrics.js",
-    "parse_song": "node parseSongData.js"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Bruno Talanski",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
