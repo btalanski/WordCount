@@ -10,7 +10,6 @@ const args = require('minimist')(process.argv.slice(2));
 const renderTemplate = require('./functions/templateRender.js');
 const fs = require('fs');
 const path = require('path');
-const templatesDir = "./templates";
 
 const init = (args) => {
     const { url = "", baseDir = "", interval: scrappeInterval = 1000 } = args;
