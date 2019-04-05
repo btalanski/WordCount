@@ -3,3 +3,6 @@ data/*
 package-lock.json
 !data/sertanejo/
 !data/funk/
+!data/axe/
+!data/samba/
+!data/forro/
