@@ -21,11 +21,11 @@ npm run start -- --url=https://www.letras.mus.br/mais-acessadas/sertanejo --base
 ### Resultados ###
 Os resultados da operações serão armazenados na pasta `data` gerada.
 
-Arquivos:
-`words.json` : JSON contendo todas as palavras encontradas, agrupadas pela frequência e ordenadas de forma decrescente
-`songs.json` : Array contendo a lista de canções analisadas
-`README.md` : Arquivo contendo os detalhes das 50 principais palavras e a lista de canções.
-
+Arquivos:  
+`words.json` : JSON contendo todas as palavras encontradas, agrupadas pela frequência e ordenadas de forma decrescente  
+`songs.json` : Array contendo a lista de canções analisadas  
+`README.md` : Arquivo contendo os detalhes das 50 principais palavras e a lista de canções.  
+ 
 ### TO DOs ###
 - [ ] Improve stopwords list
 - [ ] Improve main script logic
