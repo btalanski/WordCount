@@ -40,10 +40,13 @@ Arquivos:
 `README.md` : Arquivo contendo os detalhes das 50 principais palavras e a lista de canções.  
  
 ### TO DOs ###
-- [ ] Improve stopwords list
-- [ ] Improve main script logic
-- [ ] Improve args handling
+- [x] Improve stopwords list
+- [x] Improve main script logic
+- [x] Improve args handling
+- [x] Add json task list
+- [x] Dynamically generate README files for each folder created
 - [ ] Make code 100% async
 - [ ] Add data vizualization ?
 - [ ] Add frontend UI ?
 - [ ] Make repository public
+- [ ] Fix unit tests
